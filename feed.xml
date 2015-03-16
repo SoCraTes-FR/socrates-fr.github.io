@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoCraTes-France</title>
+    <description>The International Software Craftsmanship and Testing Conference has arrived in FRance. The first SoCraTes France will happen in 2015.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Mar 2015 01:52:28 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2015 01:52:28 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>SoCraTes-France is now live and looking for Sponsors and Volunteers</title>
+        <description>&lt;p&gt;SoCraTes-France is an international two-day Open-Space conference for crafts(wo)men by crafts(wo)men. 
+To make SoCraTes-France non-commercial event we are looking for sponsors to support us. Interested? Send us an &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#102;&amp;#114;&amp;#046;&amp;#115;&amp;#111;&amp;#099;&amp;#114;&amp;#097;&amp;#116;&amp;#101;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;SoCraTes-France is a community-driven event. Be a SoCraTes Volunteer and actively participate to make SoCrates-France a brillant event. Interested? Send us an &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#102;&amp;#114;&amp;#046;&amp;#115;&amp;#111;&amp;#099;&amp;#114;&amp;#097;&amp;#116;&amp;#101;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/03/15/SoCraTes-France%20is%20now%20live.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/03/15/SoCraTes-France%20is%20now%20live.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>New Logo for SoCraTes-France</title>
+        <description>&lt;p&gt;Thanks to &lt;a href=&quot;https://twitter.com/leiderleider&quot;&gt;Andreas Leidig&lt;/a&gt; SoCraTes-France has its own logo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/SoCraTes-FR-logo-256.png&quot; alt=&quot;SoCraTes-France Logo&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/03/10/New-Logo-For-SoCraTes-France.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/03/10/New-Logo-For-SoCraTes-France.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
