@@ -190,7 +190,7 @@ googleAnalytics = ""
 		[[params.team.members]]
 #			img = "3.jpg"
 			name = "SoCraTes BE"
-			position = "Switzerland"
+			position = "Belgium"
 			social = [
 				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
 				["fa-link", "http://socratesbe.org"]
@@ -217,7 +217,7 @@ googleAnalytics = ""
 		[[params.team.members]]
 #			img = "3.jpg"
 			name = "I T.A.K.E. Unconference"
-			position = "Finland"
+			position = "Romania"
 			social = [
 				["fa-twitter", "https://twitter.com/itakeunconf"],
 				["fa-link", "http://itakeunconf.com"]
