@@ -143,7 +143,7 @@ googleAnalytics = "UA-60791139-1"
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
 		[[params.team.members]]
-#			img = "1.jpg"
+			img = "SoCraTes_FR.png"
 			name = "SoCraTes FR"
 			position = "France"
 			social = [
@@ -152,7 +152,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "1.jpg"
+			img = "SoCraTes.png"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
@@ -161,7 +161,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "2.jpg"
+			img = "SoCraTes_UK.png"
 			name = "SoCraTes UK"
 			position = "United Kingdom"
 			social = [
@@ -170,7 +170,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "SoCraTes_ES.png"
 			name = "SoCraTes Canaries"
 			position = "Spain"
 			social = [
@@ -179,7 +179,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "SoCraTesDay_CH.jpeg"
 			name = "SoCraTes Day Switzerland"
 			position = "Switzerland"
 			social = [
@@ -188,7 +188,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "SoCraTes_BE.png"
 			name = "SoCraTes BE"
 			position = "Belgium"
 			social = [
@@ -197,7 +197,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "SoCraTes_IT.png"
 			name = "SoCraTes IT"
 			position = "Italy"
 			social = [
@@ -206,7 +206,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "CodeFreeze.png"
 			name = "CodeFreeze"
 			position = "Finland"
 			social = [
@@ -215,7 +215,7 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-#			img = "3.jpg"
+			img = "ITAKE.png"
 			name = "I T.A.K.E. Unconference"
 			position = "Romania"
 			social = [
