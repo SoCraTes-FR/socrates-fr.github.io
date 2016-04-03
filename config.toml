@@ -1,0 +1,299 @@
+# Site settings
+baseurl = "http://socrates-fr.github.io/"
+languageCode = "en-us"
+title = "SoCraTes-FR"
+theme = "hugo-agency-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) or
+	# most longer texts.
+	#
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# To provide some metadata for search engines feel free to add a few
+	# information about you and your website.
+	name = "SoCraTes FRance"
+	description = "International Software Craftsmanship and Testing Conference"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+	#
+	# What you need to do for the setup?
+	#
+	# - set your email address under 'email' below
+	# - upload the generated site to your server
+	# - send a dummy email yourself to confirm your account
+	# - click the confirm link in the email from www.formspree.io
+	# - you're done. Happy mailing!
+	email = "your@email.com"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "SoCraTes FRance 2016"
+		services = "What it is about?"
+		portfolio = "Informations"
+		about = "History"
+		team = "Family"
+		contact = "Registration"
+
+	# Add custom links. Those can be pre- and postpended to the default menu above.
+	# Use the weight attribute to order your custom links. Uncomment the example
+	# below and replace the values with your own.
+
+	# prepended links
+	#[[menu.prepend]]
+	#    url = "http://gohugo.io"
+	#    name = "Hugo"
+	#    weight = 10
+
+	# postpended links
+#	[[menu.postpend]]
+#		url = "http://gohugo.io"
+#		name = "External link"
+#		weight = 10
+
+
+	# Hero section
+	[params.hero]
+		# To change the background image of the hero, replace 'header-bg.jpg' in
+		# the 'static/img' folder.
+		title = "October 27-30th, 2016.<br>International Software Craftsmanship and Testing Conference."
+		subtitle = "SoCraTes FRance 2016"
+		buttonText = "Tell me more"
+
+
+	# Services section
+	[params.services]
+		enable = true
+		title = "What it is about?"
+		subtitle = "This event is about the sustainable creation of useful software in a responsible way."
+
+		[[params.services.row]]
+
+			[[params.services.row.list]]
+				icon = "fa-users"
+				title = "It's about People"
+				description = "Everyone who is concerned with coding, testing, code quality, software craftsmanship."
+
+			[[params.services.row.list]]
+				icon = "fa-play-circle"
+				title = "It's about Action"
+				description = "The event will be run as a non-profit, low-cost event. It will be much like a retreat. We will be there for 48 hours to collaborate and share ideas."
+
+			[[params.services.row.list]]
+				icon = "fa-plus-circle"
+				title = "It's about Fun"
+				description = "We will not only spend the days together but also the nights. And – believe it or not – programmers are a great company! There will be be lots of opportunities to spend your time. Starting with simple chilling over hiking and biking, playing games, hanging around, talking, laughing, …"
+
+	# Portfolio section
+	[params.portfolio]
+		enable = true
+		# All projects defined in their own files. You can find example projects
+		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+		# at the root of this Hugo site.
+		# For more informtion take a look at the README.
+		title = "Informations"
+		subtitle = "Informations"
+
+		[params.portfolio.modal]
+			client = "Client"
+			date = "Date"
+			category = "Category"
+			buttonText = "Close"
+
+
+	# About section
+	[params.about]
+		enable = true
+		title = "History"
+		subtitle = "Previous and next edition."
+		endpoint = "Be part<br>of the<br>event!"
+
+		# The events will be listed from the top to the bottom.
+		# All images are stored under 'static/img/about'.
+		# Replace them with your own.
+		[[params.about.events]]
+			img = "4.jpg"
+			date = "September 2015"
+			title = "First Edition"
+			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Dôme)"
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "October 27-30th, 2016"
+			title = "Second edition"
+			description = "It will take place in a beautiful castle..."
+
+
+	# Team section
+	[params.team]
+		enable = true
+		title = "SoCraTes-FR is a part of a big family."
+		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+		description = "Other conferences have emerged in other European countries such as SoCraTes UK and SoCraTes Canaries."
+
+
+		# All team member's pictures are stored under 'static/img/team'.
+		# Replace them with your own too.
+		[[params.team.members]]
+#			img = "1.jpg"
+			name = "SoCraTes FR"
+			position = "France"
+			social = [
+				["fa-twitter", "https://twitter.com/#socratesfr"],
+				["fa-link", "http://socrates-fr.github.io"]
+			]
+
+		[[params.team.members]]
+#			img = "1.jpg"
+			name = "SoCraTes"
+			position = "Germany"
+			social = [
+				["fa-twitter", "https://twitter.com/socrates_2016"],
+				["fa-link", "https://www.socrates-conference.de"]
+			]
+
+		[[params.team.members]]
+#			img = "2.jpg"
+			name = "SoCraTes UK"
+			position = "United Kingdom"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTes_UK"],
+				["fa-link", "http://socratesuk.org"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "SoCraTes Canaries"
+			position = "Spain"
+			social = [
+				["fa-twitter", "https://twitter.com/#socracan16"],
+				["fa-link", "http://www.socrates-conference.es"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "SoCraTes Day Switzerland"
+			position = "Switzerland"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTesDay_CH"],
+				["fa-link", "http://socrates-day.ch"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "SoCraTes BE"
+			position = "Switzerland"
+			social = [
+				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
+				["fa-link", "http://socratesbe.org"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "SoCraTes IT"
+			position = "Italy"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTes_Italy"],
+				["fa-link", "http://www.socrates-conference.it"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "CodeFreeze"
+			position = "Finland"
+			social = [
+				["fa-twitter", "https://twitter.com/codefreeze_fi"],
+				["fa-link", "http://www.codefreeze.fi"]
+			]
+
+		[[params.team.members]]
+#			img = "3.jpg"
+			name = "I T.A.K.E. Unconference"
+			position = "Finland"
+			social = [
+				["fa-twitter", "https://twitter.com/itakeunconf"],
+				["fa-link", "http://itakeunconf.com"]
+			]
+
+
+	# Client section
+	[params.clients_list]
+		enable = true
+
+		# All the clients' logos are stored under 'static/img/logos'.
+		# Replace them with your clients's logos.
+		[[params.clients]]
+			logo = "arolla.jpg"
+			link = "http://www.arolla.fr"
+
+		[[params.clients]]
+			logo = "zenika.jpg"
+			link = "http://www.zenika.com"
+
+		[[params.clients]]
+			logo = "novencia.jpg"
+			link = "http://www.novencia.com"
+
+
+	# Contact section
+	[params.contact]
+		enable = true
+		title = "Registration"
+		subtitle  = "Real registration will come later."
+		buttonText = "Send message"
+		message = "Please leave your email here to let us know you will PROBABLY participate in the event."
+		explains = """
+
+
+The cost will be:
+
+| Kind                      | Total cost |
+|---------------------------|------------|
+| Double room               | ??? €      |
+| Single room               | ??? €      |
+| Conference only (no room) | ?? €       |
+
+		"""
+
+		# 'warning' defines error messages for invalid inputs
+		[params.contact.form.name]
+			text = "Your Name *"
+			warning = "Please enter your name."
+
+		[params.contact.form.email]
+			text = "Your Email *"
+			warning = "Please enter your email address."
+
+		[params.contact.form.phone]
+			text = "Your Phone *"
+			warning = "Please enter your phone number."
+
+		[params.contact.form.message]
+			text = "Your Message *"
+			warning = "Please enter a message."
+
+
+	# Footer section
+	[params.footer]
+		enable = true
+		copyright = "Published under the Apache License 2.0."
+
+		[[params.footer.social]]
+			icon = "fa-twitter"
+			link = "https://twitter.com/SoCraTes_FR/"
+
+		[[params.footer.quicklinks]]
+			text = "Privacy Policy"
+			link = "#"
+
+		[[params.footer.quicklinks]]
+			text = "Terms of Use"
+			link = "#"
