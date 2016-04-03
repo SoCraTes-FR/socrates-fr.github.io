@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "SoCraTes-FR"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-60791139-1"
 
 [params]
 
