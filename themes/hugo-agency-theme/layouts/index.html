@@ -30,6 +30,10 @@
             {{ partial "contact.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.clients_list.enable }}
+            {{ partial "clients.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.footer.enable }}
             {{ partial "footer.html" . }}
         {{ end }}
