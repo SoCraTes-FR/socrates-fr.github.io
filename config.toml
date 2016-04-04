@@ -31,7 +31,8 @@ googleAnalytics = "UA-60791139-1"
 	# - send a dummy email yourself to confirm your account
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
-	email = "fr.socrates@gmail.com"
+	email = "test@gmail.com"
+	gforms = "1rEIHAocfweROwY0lH_6GHMTe26_MGTbvdS2a96RfkrE"
 
 
 	# Navigation
