@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://socrates-fr.github.io/"
+baseurl = "https://socrates-fr.github.io/"
 languageCode = "en-us"
 title = "SoCraTes-FR"
 theme = "hugo-agency-theme"
@@ -150,7 +150,7 @@ googleAnalytics = "UA-60791139-1"
 			position = "France"
 			social = [
 				["fa-twitter", "https://twitter.com/#socratesfr"],
-				["fa-link", "http://socrates-fr.github.io"]
+				["fa-link", "https://socrates-fr.github.io"]
 			]
 
 		[[params.team.members]]
