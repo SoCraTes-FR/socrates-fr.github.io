@@ -272,10 +272,7 @@ googleAnalytics = "UA-60791139-1"
 		title = "Registration"
 		subtitle  = "Real registration will come later."
 		buttonText = "Send message"
-		message = "Please leave your email here to let us know you will PROBABLY participate in the event."
 		explains = """
-
-
 The cost will be:
 
 | Kind                      | Total cost |
@@ -285,24 +282,6 @@ The cost will be:
 | Conference only (no room) | ?? €       |
 
 		"""
-
-		# 'warning' defines error messages for invalid inputs
-		[params.contact.form.name]
-			text = "Your Name *"
-			warning = "Please enter your name."
-
-		[params.contact.form.email]
-			text = "Your Email *"
-			warning = "Please enter your email address."
-
-		[params.contact.form.phone]
-			text = "Your Phone *"
-			warning = "Please enter your phone number."
-
-		[params.contact.form.message]
-			text = "Your Message *"
-			warning = "Please enter a message."
-
 
 	# Footer section
 	[params.footer]

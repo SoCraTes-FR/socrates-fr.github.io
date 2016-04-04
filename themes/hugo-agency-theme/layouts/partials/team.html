@@ -8,6 +8,11 @@
             </div>
         </div>
         <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <p class="large text-muted">{{ with .Site.Params.team.description }}{{ . | markdownify }}{{ end }}</p>
+            </div>
+        </div>
+        <div class="row">
             {{ range .Site.Params.team.members }}
             <div class="col-sm-4">
                 <div class="team-member">
@@ -22,11 +27,6 @@
                 </div>
             </div>
             {{ end }}
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">{{ with .Site.Params.team.description }}{{ . | markdownify }}{{ end }}</p>
-            </div>
         </div>
     </div>
 </section>

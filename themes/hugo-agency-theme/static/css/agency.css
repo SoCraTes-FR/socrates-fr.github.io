@@ -685,14 +685,17 @@ section#contact .form-control:focus {
     box-shadow: none;
 }
 
-section#contact .form-group .explains {
+section#contact .gforms {
+    width: 100%;
+}
+section#contact .explains {
     color: #fff;
     padding: 20px;
 }
-section#contact .form-group .explains table,
-section#contact .form-group .explains tr,
-section#contact .form-group .explains th,
-section#contact .form-group .explains td {
+section#contact .explains table,
+section#contact .explains tr,
+section#contact .explains th,
+section#contact .explains td {
     color: #000;
     background-color: #fff;
     width: 100%;

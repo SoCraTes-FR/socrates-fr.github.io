@@ -9,24 +9,15 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <form  action="//formspree.io/{{ with .Site.Params.email }}{{.}}{{ end }}" method="POST" name="sentMessage" id="contactForm" novalidate>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                               <div class="explains">{{ with .Site.Params.contact.explains }}{{ . | markdownify }}{{ end }}</div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="text-muted">
-                                <label>{{ with .Site.Params.contact.message }}{{ . | markdownify }}{{ end }}</label>
-                            </div>
-                            <div>
-                                <iframe src="https://docs.google.com/forms/d/{{ with .Site.Params.gforms }}{{.}}{{ end }}/viewform?embedded=true" width="760" height="580" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="explains">{{ with .Site.Params.contact.explains }}{{ . | markdownify }}{{ end }}</div>
                     </div>
-                </form>
+                    <div class="col-md-6 col-sm-12">
+                        <iframe class="gforms" src="https://docs.google.com/forms/d/{{ with .Site.Params.gforms }}{{.}}{{ end }}/viewform?embedded=true" height="570" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
             </div>
         </div>
     </div>
