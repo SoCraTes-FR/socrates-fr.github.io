@@ -92,12 +92,11 @@ The first “Software Craftsmanship and Testing (un)conference” took place a f
 
 You can find out more info about SoCraTes and sisters at the links below:
 
-- [SoCraTes](https://www.socrates-conference.de) https://twitter.com/socrates_2016
-- [SoCraTes_UK](http://socratesuk.org) https://twitter.com/SoCraTes_UK
-- [SoCraTes_Canaries](http://www.socrates-conference.es) https://twitter.com/#socracan16
-- [SoCraTes_Day_Switzerland](http://socrates-day.ch) https://twitter.com/SoCraTesDay_CH
-- [SoCraTes_BE](http://socratesbe.org) https://twitter.com/#SoCraTesBE
-- [SoCraTes_IT](http://www.socrates-conference.it) https://twitter.com/SoCraTes_Italy
-- [CodeFreeze](http://www.codefreeze.fi) https://twitter.com/codefreeze_fi
-- [I T.A.K.E. Unconference](http://itakeunconf.com) https://twitter.com/itakeunconf
-
+- [SoCraTes](https://www.socrates-conference.de) [Twitter](https://twitter.com/socrates_2016)
+- [SoCraTes_UK](http://socratesuk.org) [Twitter](https://twitter.com/SoCraTes_UK)
+- [SoCraTes_Canaries](http://www.socrates-conference.es) [Twitter](https://twitter.com/#socracan16)
+- [SoCraTes_Day_Switzerland](http://socrates-day.ch) [Twitter](https://twitter.com/SoCraTesDay_CH)
+- [SoCraTes_BE](http://socratesbe.org) [Twitter](https://twitter.com/#SoCraTesBE)
+- [SoCraTes_IT](http://www.socrates-conference.it) [Twitter](https://twitter.com/SoCraTes_Italy)
+- [CodeFreeze](http://www.codefreeze.fi) [Twitter](https://twitter.com/codefreeze_fi)
+- [I T.A.K.E. Unconference](http://itakeunconf.com) [Twitter](https://twitter.com/itakeunconf)
