@@ -9,11 +9,12 @@
         </div>
         <div class="row">
             {{ range .Site.Params.sponsor }}
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <div class="team-member">
                     <a href="{{ .link }}">
                         <img src="img/logos/{{ .logo }}" class="img-responsive" alt="{{ .name | markdownify }}">
                     </a>
+                    <p class="text-muted">{{ .name | markdownify }}</p>
                 </div>
             </div>
             {{ end }}

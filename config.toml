@@ -233,6 +233,11 @@ googleAnalytics = "UA-60791139-1"
 		subtitle = ""
 
 		[[params.sponsor]]
+			name = "Codurance"
+			logo = "codurance-square.png"
+			link = "http://codurance.com"
+
+		[[params.sponsor]]
 			name = "Arolla"
 			logo = "arolla-square.jpg"
 			link = "http://www.arolla.fr"
