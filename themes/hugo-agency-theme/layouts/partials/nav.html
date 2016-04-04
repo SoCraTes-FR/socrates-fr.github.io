@@ -48,6 +48,12 @@
                 </li>
                 {{ end }}
 
+                {{ if .Site.Params.sponsors.enable }}
+                <li>
+                    <a class="page-scroll" href="#sponsors">{{ with .Site.Params.navigation.sponsors }}{{ . | markdownify }}{{ end }}</a>
+                </li>
+                {{ end }}
+
                 {{ if .Site.Params.contact.enable }}
                 <li>
                     <a class="page-scroll" href="#contact">{{ with .Site.Params.navigation.contact }}{{ . | markdownify }}{{ end }}</a>

@@ -43,6 +43,7 @@ googleAnalytics = "UA-60791139-1"
 		about = "History"
 		team = "Family"
 		contact = "Registration"
+		sponsors = "Sponsors"
 
 	# Add custom links. Those can be pre- and postpended to the default menu above.
 	# Use the weight attribute to order your custom links. Uncomment the example
@@ -225,9 +226,30 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 
+	# Sponsor section
+	[params.sponsors]
+		enable = true
+		title = "Our Sponsors"
+		subtitle = ""
+
+		[[params.sponsor]]
+			name = "Arolla"
+			logo = "arolla-square.jpg"
+			link = "http://www.arolla.fr"
+
+		[[params.sponsor]]
+			name = "Zenika"
+			logo = "zenika-square.jpg"
+			link = "http://www.zenika.com"
+
+		[[params.sponsor]]
+			name = "Novencia"
+			logo = "novencia-square.jpg"
+			link = "http://www.novencia.com"
+
 	# Client section
 	[params.clients_list]
-		enable = true
+		enable = false
 
 		# All the clients' logos are stored under 'static/img/logos'.
 		# Replace them with your clients's logos.
