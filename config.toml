@@ -233,19 +233,9 @@ googleAnalytics = "UA-60791139-1"
 		subtitle = ""
 
 		[[params.sponsor]]
-			name = "Codurance"
-			logo = "codurance-square.png"
-			link = "http://codurance.com"
-
-		[[params.sponsor]]
 			name = "Arolla"
 			logo = "arolla-square.jpg"
 			link = "http://www.arolla.fr"
-
-		[[params.sponsor]]
-			name = "Zenika"
-			logo = "zenika-square.jpg"
-			link = "http://www.zenika.com"
 
 		[[params.sponsor]]
 			name = "Novencia"
@@ -253,9 +243,19 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.novencia.com"
 
 		[[params.sponsor]]
+			name = "Zenika"
+			logo = "zenika-square.jpg"
+			link = "http://www.zenika.com"
+
+		[[params.sponsor]]
 			name = "Viseo Technologies"
 			logo = "viseo-square.jpg"
 			link = "http://www.viseo.com"
+
+		[[params.sponsor]]
+			name = "Codurance"
+			logo = "codurance-square.png"
+			link = "http://codurance.com"
 
 
 	# Client section
@@ -269,20 +269,20 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.arolla.fr"
 
 		[[params.clients]]
-			logo = "zenika.jpg"
-			link = "http://www.zenika.com"
-
-		[[params.clients]]
 			logo = "novencia.jpg"
 			link = "http://www.novencia.com"
 
 		[[params.clients]]
-			logo = "codurance-square.png"
-			link = "http://codurance.com"
+			logo = "zenika.jpg"
+			link = "http://www.zenika.com"
 
 		[[params.clients]]
 			logo = "viseo.jpg"
 			link = "http://www.viseo.com"
+
+		[[params.clients]]
+			logo = "codurance-square.png"
+			link = "http://codurance.com"
 
 
 	# Contact section
