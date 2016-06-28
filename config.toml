@@ -257,6 +257,11 @@ googleAnalytics = "UA-60791139-1"
 			logo = "codurance-square.png"
 			link = "http://codurance.com"
 
+		[[params.sponsor]]
+			name = "Octo Technology"
+			logo = "octo-square.png"
+			link = "http://www.octo.com/"
+
 
 	# Client section
 	[params.clients_list]
