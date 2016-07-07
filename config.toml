@@ -260,8 +260,12 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "Octo Technology"
 			logo = "octo-square.png"
-			link = "http://www.octo.com/"
+			link = "http://www.octo.com"
 
+		[[params.sponsor]]
+				name = "Orange"
+				logo = "orange-square.png"
+				link = "https://developer.orange.com"
 
 	# Client section
 	[params.clients_list]
