@@ -39,7 +39,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.navigation]
 		brand = "SoCraTes FRance 2016"
 		services = "What it is about?"
-		portfolio = "Informations"
+		portfolio = "Information"
 		about = "History"
 		team = "Family"
 		contact = "Registration"
@@ -101,8 +101,8 @@ googleAnalytics = "UA-60791139-1"
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Informations"
-		subtitle = "Informations"
+		title = "Information"
+		subtitle = "Information"
 
 		[params.portfolio.modal]
 			client = "Client"
