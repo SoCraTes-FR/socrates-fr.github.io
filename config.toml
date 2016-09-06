@@ -267,6 +267,11 @@ googleAnalytics = "UA-60791139-1"
 				logo = "orange-square.png"
 				link = "https://developer.orange.com"
 
+		[[params.sponsor]]
+				name = "Aneo"
+				logo = "aneo-square.jpg"
+				link = "http://www.aneo.eu"
+
 	# Client section
 	[params.clients_list]
 		enable = false
