@@ -56,11 +56,9 @@ googleAnalytics = "UA-60791139-1"
 	#    weight = 10
 
 	# postpended links
-#	[[menu.postpend]]
-#		url = "http://gohugo.io"
-#		name = "External link"
-#		weight = 10
-
+	[[menu.postpend]]
+	    url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
+	    name = "Wiki"
 
 	# Hero section
 	[params.hero]
