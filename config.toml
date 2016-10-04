@@ -261,14 +261,19 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.octo.com"
 
 		[[params.sponsor]]
-				name = "Orange"
-				logo = "orange-square.png"
-				link = "https://developer.orange.com"
+			name = "Orange"
+			logo = "orange-square.png"
+			link = "https://developer.orange.com"
 
 		[[params.sponsor]]
 				name = "Aneo"
 				logo = "aneo-square.jpg"
 				link = "http://www.aneo.eu"
+
+		[[params.sponsor]]
+				name = "SOAT"
+				logo = "soat-square.png"
+				link = "http://www.soat.fr"
 
 	# Client section
 	[params.clients_list]
