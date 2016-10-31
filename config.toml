@@ -125,10 +125,16 @@ googleAnalytics = "UA-60791139-1"
 			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Dôme)"
 
 		[[params.about.events]]
-			img = "3.jpg"
+			img = "1.jpg"
 			date = "October 27-30th, 2016"
 			title = "Second edition"
-			description = "It will take place in a beautiful castle..."
+			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Dôme)"
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "September, 2017"
+			title = "Third edition"
+			description = "Comming soon"
 
 
 	# Team section
@@ -301,9 +307,9 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://codurance.com"
 
 
-	# Contact section
+	# Contact section (Disabled, waiting for 2017 !!!)
 	[params.contact]
-		enable = true
+		enable = false
 		title = "Registration"
 		subtitle  = "Real registration will come later."
 		buttontext = "Send message"
@@ -314,7 +320,7 @@ The cost will be:
 |---------------------------|------------|
 | Double room               | ??? €      |
 | Single room               | ??? €      |
-| Conference only (no room) | ?? €       |
+| Conference only (no room) | ??? €      |
 """
 
 	# Footer section
