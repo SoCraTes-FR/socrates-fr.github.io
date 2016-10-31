@@ -57,8 +57,8 @@ googleAnalytics = "UA-60791139-1"
 
 	# postpended links
 	[[menu.postpend]]
-	    url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
-	    name = "Wiki"
+		url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
+		name = "Wiki"
 
 	# Hero section
 	[params.hero]
@@ -316,8 +316,7 @@ The cost will be:
 | Double room               | ??? €      |
 | Single room               | ??? €      |
 | Conference only (no room) | ?? €       |
-
-		"""
+"""
 
 	# Footer section
 	[params.footer]
