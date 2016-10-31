@@ -1,0 +1,28 @@
+language: go
+
+go:
+  - 1.7
+
+sudo: false
+
+git:
+  depth: 10
+
+branches:
+  only:
+    - hugo
+
+env:
+  global:
+    - SOURCE_DIR="public"
+    - BUILD_BRANCH="hugo"
+    - DEPLOY_BRANCH="master"
+
+install:
+  - go get -u -v github.com/spf13/hugo
+
+script:
+  - hugo
+
+after_success:
+  - "./.travis/publish.sh"
