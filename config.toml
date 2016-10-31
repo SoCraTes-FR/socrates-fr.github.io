@@ -66,8 +66,7 @@ googleAnalytics = "UA-60791139-1"
 		# the 'static/img' folder.
 		title = "October 27-30th, 2016.<br>International Software Craftsmanship and Testing Conference."
 		subtitle = "SoCraTes FRance 2016"
-		buttonText = "Tell me more"
-
+		buttontext = "Tell me more"
 
 	# Services section
 	[params.services]
@@ -106,7 +105,7 @@ googleAnalytics = "UA-60791139-1"
 			client = "Client"
 			date = "Date"
 			category = "Category"
-			buttonText = "Close"
+			buttontext = "Close"
 
 
 	# About section
@@ -307,7 +306,7 @@ googleAnalytics = "UA-60791139-1"
 		enable = true
 		title = "Registration"
 		subtitle  = "Real registration will come later."
-		buttonText = "Send message"
+		buttontext = "Send message"
 		explains = """
 The cost will be:
 
