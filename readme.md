@@ -20,4 +20,4 @@ hugo
 
 ### Continuous Delivery
 
-When each PR (on the branch `hugo`) is merge, Travis build and deploy automatically the site.
+When a PR (on the branch `hugo`) is merge, Travis build and deploy automatically the site.
