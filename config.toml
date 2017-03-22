@@ -37,7 +37,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2016"
+		brand = "SoCraTes FRance 2017"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -64,8 +64,9 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 27-30th, 2016.<br>International Software Craftsmanship and Testing Conference."
-		subtitle = "SoCraTes FRance 2016"
+		title = "International Software Craftsmanship and Testing Conference."
+#		title = "October 27-30th, 2016.<br>International Software Craftsmanship and Testing Conference."
+		subtitle = "SoCraTes FRance 2017"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -132,7 +133,7 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "3.jpg"
-			date = "September, 2017"
+			date = "October, 2017"
 			title = "Third edition"
 			description = "Coming soon"
 
