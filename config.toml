@@ -231,7 +231,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = true
+		enable = false
 		title = "Our Sponsors"
 		subtitle = ""
 
