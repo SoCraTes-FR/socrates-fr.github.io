@@ -32,8 +32,7 @@ googleAnalytics = "UA-60791139-1"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "test@gmail.com"
-	gforms = "1rEIHAocfweROwY0lH_6GHMTe26_MGTbvdS2a96RfkrE"
-
+	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
 	# Navigation
 	[params.navigation]
@@ -306,21 +305,20 @@ googleAnalytics = "UA-60791139-1"
 			logo = "codurance-square.png"
 			link = "http://codurance.com"
 
-
-	# Contact section (Disabled, waiting for 2017 !!!)
 	[params.contact]
-		enable = false
+		enable = true
 		title = "Registration"
-		subtitle  = "Real registration will come later."
+		subtitle  = "The number of participants will be limited to 70."
 		buttontext = "Send message"
 		explains = """
-The cost will be:
+Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 3 breakfasts and breaks.
 
-| Kind                      | Total cost |
-|---------------------------|------------|
-| Double room               | ??? €      |
-| Single room               | ??? €      |
-| Conference only (no room) | ??? €      |
+| Kind             | Total cost | Information                               |
+|------------------|------------|-------------------------------------------|
+| single rooms     | 610 €      |                                           |
+| double rooms     | 510 €      |                                           |
+| triple rooms     | 410 €      | Rooms are big from 25 to 36m² + bathrooms |
+| no accommodation | 240 €      | 3 dinners + 3 lunches                     |
 """
 
 	# Footer section
