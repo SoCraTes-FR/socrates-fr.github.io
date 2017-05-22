@@ -698,7 +698,7 @@ section#contact .explains th,
 section#contact .explains td {
     color: #000;
     background-color: #fff;
-    width: 100%;
+    width: auto;
 /*    margin: 10px;*/
     border: 1px solid lightgray;
     padding: 10px;
