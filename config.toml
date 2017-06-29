@@ -245,11 +245,6 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.novencia.com"
 
 # 		[[params.sponsor]]
-# 			name = "Zenika"
-# 			logo = "zenika-square.jpg"
-# 			link = "http://www.zenika.com"
-
-# 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
 # 			logo = "viseo-square.jpg"
 # 			link = "http://www.viseo.com"
@@ -263,6 +258,11 @@ googleAnalytics = "UA-60791139-1"
 			name = "Octo Technology"
 			logo = "octo-square.png"
 			link = "http://www.octo.com"
+
+		[[params.sponsor]]
+			name = "Zenika"
+			logo = "zenika-square.jpg"
+			link = "http://www.zenika.com"
 
 # 		[[params.sponsor]]
 # 			name = "Orange"
