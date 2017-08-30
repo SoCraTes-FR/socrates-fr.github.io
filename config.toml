@@ -121,13 +121,13 @@ googleAnalytics = "UA-60791139-1"
 			img = "4.jpg"
 			date = "September 2015"
 			title = "First Edition"
-			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Dôme)"
+			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "1.jpg"
 			date = "October 27-30th, 2016"
 			title = "Second edition"
-			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Dôme)"
+			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
