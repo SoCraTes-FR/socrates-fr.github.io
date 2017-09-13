@@ -281,7 +281,7 @@ googleAnalytics = "UA-60791139-1"
 
  		[[params.sponsor]]
  				name = "Meritis"
- 				logo = "Logo_Meritis_Group.png"
+ 				logo = "meritis.png"
  				link = "http://meritis.fr"
 
 	# Client section
