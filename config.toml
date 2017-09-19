@@ -281,7 +281,7 @@ googleAnalytics = "UA-60791139-1"
 
  		[[params.sponsor]]
  				name = "Meritis"
- 				logo = "meritis.png"
+ 				logo = "meritis-square.png"
  				link = "http://meritis.fr"
 
 	# Client section
@@ -291,24 +291,9 @@ googleAnalytics = "UA-60791139-1"
 		# All the clients' logos are stored under 'static/img/logos'.
 		# Replace them with your clients's logos.
 		[[params.clients]]
-			logo = "arolla.jpg"
-			link = "http://www.arolla.fr"
+			logo = "test.jpg"
+			link = "http://www.test.fr"
 
-		[[params.clients]]
-			logo = "novencia.jpg"
-			link = "http://www.novencia.com"
-
-		[[params.clients]]
-			logo = "zenika.jpg"
-			link = "http://www.zenika.com"
-
-		[[params.clients]]
-			logo = "viseo.jpg"
-			link = "http://www.viseo.com"
-
-		[[params.clients]]
-			logo = "codurance-square.png"
-			link = "http://codurance.com"
 
 	[params.contact]
 		enable = true
