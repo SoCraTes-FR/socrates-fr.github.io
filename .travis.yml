@@ -12,17 +12,21 @@ branches:
   only:
     - hugo
 
-env:
-  global:
-    - SOURCE_DIR="public"
-    - BUILD_BRANCH="hugo"
-    - DEPLOY_BRANCH="master"
-
 install:
-  - go get -u -v github.com/spf13/hugo
+  - go get github.com/kardianos/govendor
+  - govendor get github.com/gohugoio/hugo
+  - go install github.com/gohugoio/hugo
 
 script:
   - hugo
 
-after_success:
-  - "./.travis/publish.sh"
+deploy:
+  - provider: pages
+    target_branch: master
+    local_dir: public
+    edge: true
+    skip_cleanup: true
+    github_token: ${GITHUB_TOKEN}
+    on:
+      repo: SoCraTes-FR/socrates-fr.github.io
+      branch: hugo
