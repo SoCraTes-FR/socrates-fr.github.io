@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - 1.7
+  - 1.x
 
 sudo: false
 
@@ -13,9 +13,12 @@ branches:
     - hugo
 
 install:
-  - go get github.com/kardianos/govendor
-  - govendor get github.com/gohugoio/hugo
-  - go install github.com/gohugoio/hugo
+  - go get github.com/magefile/mage
+  - go get -d github.com/gohugoio/hugo
+  - cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
+  - mage vendor
+  - mage install
+  - cd ${TRAVIS_BUILD_DIR}
 
 script:
   - hugo
