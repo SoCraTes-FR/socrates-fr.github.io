@@ -319,11 +319,3 @@ Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 
 		[[params.footer.social]]
 			icon = "fa-twitter"
 			link = "https://twitter.com/SoCraTes_FR/"
-
-		[[params.footer.quicklinks]]
-			text = "Privacy Policy"
-			link = "#"
-
-		[[params.footer.quicklinks]]
-			text = "Terms of Use"
-			link = "#"
