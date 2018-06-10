@@ -1,11 +1,11 @@
 modalID: 1
 title: Location
-subtitle: 'How to get to the "Château de Rochegude" ?'
-img: rochegude.png
-preview: rochegude-preview.png
+subtitle: 'How to get to the "Château de Massillan" ?'
+img: massillan.jpg
+preview: massillan-preview.jpg
 category: Organisation
 description: |
-    The "[château de Rochegude](http://www.chateauderochegude.com/fr/hotel-luxe-provence-relais-chateaux-drome)" is located 1h20 from Marseille, 1h45 from Lyon, 1h15 from Montpellier and 1h from Aix-En-Provence.
+    The "[château de Massillan](https://www.chateaudemassillan.fr/en/)" is located 1h20 from Marseille, 1h45 from Lyon, 1h15 from Montpellier and 1h from Aix-En-Provence.
 
     By train, the closest stations are
 
@@ -19,4 +19,4 @@ description: |
 
     Try searching for direction on Google Maps
 
-     - [Google Maps](https://www.google.com/maps/dir/''/Ch%C3%A2teau+de+Rochegude+Place+du+Colombier+26790+Rochegude/@44.2476236,4.7581591,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x12b59c39086bae0b:0x3af8906539260944!2m2!1d4.8281989!2d44.247645)
+     - [Google Maps](https://www.google.com/maps/place/Ch%C3%A2teau+de+Massillan/@44.2330208,4.7908183,17z/data=!3m1!4b1!4m7!3m6!1s0x12b59ea50a4d28ed:0xcaadcdda26b26ed5!5m1!1s2018-06-10!8m2!3d44.2330208!4d4.793007)
