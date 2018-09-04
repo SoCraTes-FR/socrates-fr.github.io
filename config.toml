@@ -254,7 +254,7 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "Codecentric"
 			logo = "codecentric-square.jpg"
-			link = "http://www.arolla.fr"
+			link = "http://www.codecentric.de"
 
 		[[params.sponsor]]
          	name = "Meritis"
