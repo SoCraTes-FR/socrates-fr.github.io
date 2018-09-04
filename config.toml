@@ -237,14 +237,29 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = false
+		enable = true
 		title = "Our Sponsors"
 		subtitle = ""
+
+		[[params.sponsor]]
+ 				name = "Aneo"
+ 				logo = "aneo-square.jpg"
+ 				link = "http://www.aneo.eu"
 
 		[[params.sponsor]]
 			name = "Arolla"
 			logo = "arolla-square.jpg"
 			link = "http://www.arolla.fr"
+
+		[[params.sponsor]]
+			name = "Codecentric"
+			logo = "codecentric-square.jpg"
+			link = "http://www.codecentric.de"
+
+		[[params.sponsor]]
+         	name = "Meritis"
+         	logo = "meritis-square.png"
+         	link = "http://meritis.fr"
 
 		[[params.sponsor]]
 			name = "Novencia"
@@ -266,30 +281,20 @@ googleAnalytics = "UA-60791139-1"
 			logo = "octo-square.png"
 			link = "http://www.octo.com"
 
-		[[params.sponsor]]
-			name = "Zenika"
-			logo = "zenika-square.jpg"
-			link = "http://www.zenika.com"
-
  		[[params.sponsor]]
  			name = "Orange"
  			logo = "orange-square.png"
  			link = "https://developer.orange.com"
 
  		[[params.sponsor]]
- 				name = "Aneo"
- 				logo = "aneo-square.jpg"
- 				link = "http://www.aneo.eu"
+ 				name = "SOAT"
+ 				logo = "soat-square.png"
+ 				link = "http://www.soat.fr"
 
-# 		[[params.sponsor]]
-# 				name = "SOAT"
-# 				logo = "soat-square.png"
-# 				link = "http://www.soat.fr"
-
- 		[[params.sponsor]]
- 				name = "Meritis"
- 				logo = "meritis-square.png"
- 				link = "http://meritis.fr"
+		[[params.sponsor]]
+			name = "Zenika"
+			logo = "zenika-square.jpg"
+			link = "http://www.zenika.com"
 
 	# Client section
 	[params.clients_list]
