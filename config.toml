@@ -253,7 +253,7 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.sponsor]]
 			name = "Codecentric"
-			logo = "codecentric-square.jpg"
+			logo = "codecentric-square.png"
 			link = "http://www.codecentric.de"
 
 		[[params.sponsor]]
