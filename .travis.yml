@@ -13,14 +13,12 @@ branches:
     - hugo
 
 install:
-  - go get github.com/magefile/mage
-  - go get -d github.com/gohugoio/hugo
-  - cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
-  - mage install
-  - cd ${TRAVIS_BUILD_DIR}
+  # Hugo - documentation
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
 
 script:
-  - hugo
+  - make hugo-build
 
 deploy:
   - provider: pages

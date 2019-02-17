@@ -7,11 +7,11 @@
 - Run hugo server.
 
 ```shell
-hugo server -w
+make hugo
 ```
 
 - Run `hugo` command for updating *public* folder, *public* folder is your static site.
 
 ```shell
-hugo
+make hugo-build
 ```

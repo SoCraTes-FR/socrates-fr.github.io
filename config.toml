@@ -36,7 +36,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2018"
+		brand = "SoCraTes FRance 2019"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -63,8 +63,8 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 25-28th, 2018.<br>International Software Craftsmanship and Testing Conference."
-		subtitle = "SoCraTes FRance 2018"
+		title = "October, 2019.<br>International Software Craftsmanship and Testing Conference."
+		subtitle = "SoCraTes FRance 2019"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -120,9 +120,15 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "October, 2018"
-			title = "Forth edition"
+			date = "October, 2019"
+			title = "Fifth edition"
 			description = "Coming soon"
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "October 25-28th, 2018"
+			title = "Forth edition"
+			description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -237,7 +243,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = true
+		enable = false
 		title = "Our Sponsors"
 		subtitle = ""
 
@@ -308,7 +314,7 @@ googleAnalytics = "UA-60791139-1"
 
 
 	[params.contact]
-		enable = true
+		enable = false
 		title = "Registration"
 		subtitle  = "The number of participants will be limited to 70."
 		buttontext = "Send message"
