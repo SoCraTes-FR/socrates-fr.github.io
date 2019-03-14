@@ -63,7 +63,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October, 2019.<br>International Software Craftsmanship and Testing Conference."
+		title = "October 17-20th, 2019.<br>International Software Craftsmanship and Testing Conference."
 		subtitle = "SoCraTes FRance 2019"
 		buttontext = "Tell me more"
 
@@ -314,20 +314,11 @@ googleAnalytics = "UA-60791139-1"
 
 
 	[params.contact]
-		enable = false
+		enable = true
 		title = "Registration"
-		subtitle  = "The number of participants will be limited to 70."
-		buttontext = "Send message"
-		explains = """
-Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 3 breakfasts and breaks.
-
-| Kind             | Total cost | Information                               |
-|------------------|------------|-------------------------------------------|
-| single rooms     | 610 €      |                                           |
-| double rooms     | 510 €      |                                           |
-| triple rooms     | 410 €      | Rooms are big from 25 to 36m² + bathrooms |
-| no accommodation | 240 €      | 3 dinners + 3 lunches                     |
-"""
+		subtitle  = ""
+		buttontext = ""
+		explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
 
 	# Footer section
 	[params.footer]
