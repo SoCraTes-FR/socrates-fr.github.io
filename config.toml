@@ -243,14 +243,9 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = false
+		enable = true
 		title = "Our Sponsors"
 		subtitle = ""
-
-		[[params.sponsor]]
- 				name = "Aneo"
- 				logo = "aneo-square.jpg"
- 				link = "http://www.aneo.eu"
 
 		[[params.sponsor]]
 			name = "Arolla"
@@ -258,19 +253,39 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.arolla.fr"
 
 		[[params.sponsor]]
-			name = "codecentric"
-			logo = "codecentric-square.png"
-			link = "http://www.codecentric.de"
+			name = "Octo Technology"
+			logo = "octo-square.png"
+			link = "http://www.octo.com"
+
+ 		[[params.sponsor]]
+ 				name = "SOAT"
+ 				logo = "soat-square.png"
+ 				link = "http://www.soat.fr"
 
 		[[params.sponsor]]
-         	name = "Meritis"
-         	logo = "meritis-square.png"
-         	link = "http://meritis.fr"
+			name = "Shodo"
+			logo = "shodo-square.jpg"
+			link = "https://shodo.io"
 
-		[[params.sponsor]]
-			name = "Novencia"
-			logo = "novencia-square.jpg"
-			link = "http://www.novencia.com"
+		# [[params.sponsor]]
+ 		# 		name = "Aneo"
+ 		# 		logo = "aneo-square.jpg"
+ 		# 		link = "http://www.aneo.eu"
+
+		# [[params.sponsor]]
+		# 	name = "codecentric"
+		# 	logo = "codecentric-square.png"
+		# 	link = "http://www.codecentric.de"
+
+		# [[params.sponsor]]
+    #      	name = "Meritis"
+    #      	logo = "meritis-square.png"
+    #      	link = "http://meritis.fr"
+
+		# [[params.sponsor]]
+		# 	name = "Novencia"
+		# 	logo = "novencia-square.jpg"
+		# 	link = "http://www.novencia.com"
 
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
@@ -282,25 +297,15 @@ googleAnalytics = "UA-60791139-1"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
-		[[params.sponsor]]
-			name = "Octo Technology"
-			logo = "octo-square.png"
-			link = "http://www.octo.com"
+ 		# [[params.sponsor]]
+ 		# 	name = "Orange"
+ 		# 	logo = "orange-square.png"
+ 		# 	link = "https://developer.orange.com"
 
- 		[[params.sponsor]]
- 			name = "Orange"
- 			logo = "orange-square.png"
- 			link = "https://developer.orange.com"
-
- 		[[params.sponsor]]
- 				name = "SOAT"
- 				logo = "soat-square.png"
- 				link = "http://www.soat.fr"
-
-		[[params.sponsor]]
-			name = "Zenika"
-			logo = "zenika-square.jpg"
-			link = "http://www.zenika.com"
+		# [[params.sponsor]]
+		# 	name = "Zenika"
+		# 	logo = "zenika-square.jpg"
+		# 	link = "http://www.zenika.com"
 
 	# Client section
 	[params.clients_list]
