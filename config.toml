@@ -18,7 +18,7 @@ googleAnalytics = "UA-60791139-1"
 	# To provide some metadata for search engines feel free to add a few
 	# information about you and your website.
 	name = "SoCraTes FRance"
-	description = "International Software Craftsmanship and Testing Conference"
+	description = "International Conference for Software Craft and Testing"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -63,7 +63,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 17-20th, 2019.<br>International Software Craftsmanship and Testing Conference."
+		title = "October 17-20th, 2019.<br>International Conference for Software Craft and Testing."
 		subtitle = "SoCraTes FRance 2019"
 		buttontext = "Tell me more"
 
@@ -78,7 +78,7 @@ googleAnalytics = "UA-60791139-1"
 			[[params.services.row.list]]
 				icon = "fa-users"
 				title = "It's about People"
-				description = "Everyone who is concerned with coding, testing, code quality, software craftsmanship."
+				description = "Everyone who is concerned with coding, testing, code quality and craft."
 
 			[[params.services.row.list]]
 				icon = "fa-play-circle"
