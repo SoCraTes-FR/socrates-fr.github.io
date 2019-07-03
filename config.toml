@@ -267,10 +267,10 @@ googleAnalytics = "UA-60791139-1"
 			logo = "shodo-square.png"
 			link = "https://shodo.io"
 
-		# [[params.sponsor]]
- 		# 		name = "Aneo"
- 		# 		logo = "aneo-square.jpg"
- 		# 		link = "http://www.aneo.eu"
+		[[params.sponsor]]
+ 		 		name = "Aneo"
+ 		 		logo = "aneo-square.jpg"
+ 		 		link = "http://www.aneo.eu"
 
 		# [[params.sponsor]]
 		# 	name = "codecentric"
@@ -282,10 +282,15 @@ googleAnalytics = "UA-60791139-1"
     #      	logo = "meritis-square.png"
     #      	link = "http://meritis.fr"
 
-		# [[params.sponsor]]
-		# 	name = "Novencia"
-		# 	logo = "novencia-square.jpg"
-		# 	link = "http://www.novencia.com"
+		 [[params.sponsor]]
+		 	name = "Novencia"
+		 	logo = "novencia-square.jpg"
+		 	link = "http://www.novencia.com"
+
+		 [[params.sponsor]]
+		 	name = "Axa"
+		 	logo = "axa-square.jpg"
+		 	link = "https://www.axa.fr"
 
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
