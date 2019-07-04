@@ -7,17 +7,23 @@
                 <h3 class="section-subheading text-muted">{{ with .Site.Params.sponsors.subtitle }}{{ . | markdownify }}{{ end }}</h3>
             </div>
         </div>
-        <div class="row">
-            {{ range .Site.Params.sponsor }}
+        {{ $indexNextClosingTag := 4 }}
+        {{ range $index, $sponsor := .Site.Params.sponsor }}
+            {{ if modBool $index 4 }}
+                <div class="row">
+            {{ end }}
             <div class="col-sm-3">
                 <div class="team-member">
-                    <a href="{{ .link }}">
-                        <img src="img/logos/{{ .logo }}" class="img-responsive" alt="{{ .name | markdownify }}">
+                    <a href="{{ $sponsor.link }}">
+                        <img src="img/logos/{{ $sponsor.logo }}" class="img-responsive" alt="{{ $sponsor.name | markdownify }}">
                     </a>
-                    <p class="text-muted">{{ .name | markdownify }}</p>
+                    <p class="text-muted">{{ $sponsor.name | markdownify }}</p>
                 </div>
             </div>
+            {{ if eq (add $index 1) $indexNextClosingTag }}
+                </div>
+                {{ $indexNextClosingTag = add $index 5 }}
             {{ end }}
-        </div>
+        {{ end }}
     </div>
 </section>
