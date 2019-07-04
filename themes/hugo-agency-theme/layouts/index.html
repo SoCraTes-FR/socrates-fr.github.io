@@ -22,6 +22,10 @@
             {{ partial "team.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.socratesday.enable }}
+            {{ partial "socratesday.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.sponsors.enable }}
             {{ partial "sponsors.html" . }}
         {{ end }}
