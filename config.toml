@@ -328,7 +328,8 @@ googleAnalytics = "UA-60791139-1"
 		title = "Registration"
 		subtitle  = ""
 		buttontext = ""
-		explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
+		explains = "Registration is now closed."
+		#explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
 
 	# Footer section
 	[params.footer]
