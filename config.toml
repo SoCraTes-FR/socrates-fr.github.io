@@ -331,7 +331,7 @@ googleAnalytics = "UA-60791139-1"
 		[[params.socratesday.members]]
 			img = "socratesrenne.png"
 			name = "SoCraTes-FR Rennes"
-			position = "Renne"
+			position = "Rennes"
 			social = [
 				["fa-twitter", "https://twitter.com/socratesday_fr"],
 				["fa-link", "https://socrates-rennes.github.io"]
