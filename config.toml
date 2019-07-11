@@ -322,6 +322,29 @@ googleAnalytics = "UA-60791139-1"
 			logo = "test.jpg"
 			link = "http://www.test.fr"
 
+	[params.socratesday]
+		enable = true
+		title = "Socrates Day France"
+		subtitle = ""
+		description = "SoCraTes Day is an International Conference for Software Craft and Testing, a single-day version of the full SoCraTes Conferences. It provides an ideal setting for speaking to and coding with other talented and engaged developers, letting us learn from and with each other."
+
+		[[params.socratesday.members]]
+			img = "socratesrenne.png"
+			name = "SoCraTes-FR Rennes"
+			position = "Rennes"
+			social = [
+				["fa-twitter", "https://twitter.com/socratesday_fr"],
+				["fa-link", "https://socrates-rennes.github.io"]
+			]
+
+		[[params.socratesday.members]]
+			img = "alpescraft.png"
+			name = "AlpesCraft | SoCraTes-FR Grenoble"
+			position = "Grenoble"
+			social = [
+				["fa-twitter", "https://twitter.com/AlpesCraft"],
+				["fa-link", "https://www.alpescraft.fr/"]
+			]
 
 	[params.contact]
 		enable = true
