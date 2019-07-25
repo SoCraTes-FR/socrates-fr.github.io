@@ -292,6 +292,11 @@ googleAnalytics = "UA-60791139-1"
 		 	logo = "axa-square.jpg"
 		 	link = "https://www.axa.fr"
 
+		 [[params.sponsor]]
+        	name = "BCG Platinion"
+        	logo = "bcg-square.png"
+        	link = "https://www.bcg.com/"
+
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
 # 			logo = "viseo-square.jpg"
