@@ -307,10 +307,10 @@ googleAnalytics = "UA-60791139-1"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
- 		# [[params.sponsor]]
- 		# 	name = "Orange"
- 		# 	logo = "orange-square.png"
- 		# 	link = "https://developer.orange.com"
+ 		 [[params.sponsor]]
+ 		 	name = "Orange"
+ 		 	logo = "orange-square.png"
+ 		 	link = "https://developer.orange.com"
 
 		# [[params.sponsor]]
 		# 	name = "Zenika"
