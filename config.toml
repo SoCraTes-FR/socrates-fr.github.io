@@ -240,6 +240,15 @@ googleAnalytics = "UA-60791139-1"
 				["fa-link", "http://itakeunconf.com"]
 			]
 
+		[[params.team.members]]
+			img = "agileCrete.png"
+			name = "AgileCrete Unconference"
+			position = "Crete, Greece"
+			social = [
+				["fa-twitter", "https://twitter.com/AgileCrete"],
+				["fa-link", "https://agilecrete.org"]
+			]
+
 
 	# Sponsor section
 	[params.sponsors]
