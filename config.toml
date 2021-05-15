@@ -63,7 +63,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 29-31th, 2021.<br>International Conference for Software Craft and Testing."
+		title = "October 29-31th, 2021. International Conference for Software Craft and Testing."
 		subtitle = "SoCraTes MAroc 2021"
 		buttontext = "Tell me more"
 
