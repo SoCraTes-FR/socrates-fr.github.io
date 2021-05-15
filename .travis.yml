@@ -28,5 +28,5 @@ deploy:
     skip_cleanup: true
     github_token: ${GITHUB_TOKEN}
     on:
-      repo: SoCraTes-FR/socrates-fr.github.io
+      repo: SoCraTes-MA/socrates-ma.github.io
       branch: hugo
