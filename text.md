@@ -1,8 +1,8 @@
-# SoCraTes FRance 2016
+# SoCraTes Maroc 2021
 
 SoCraTes FRance
 
-October 27-30th, 2016.
+October 29-31st, 2021.
 International Software Craftsmanship and Testing Conference.
 
 
@@ -28,7 +28,7 @@ Starting with simple chilling over hiking and biking, playing games, hanging aro
 
 ## Agenda
 
-The conference starts 27-10-2016 at 17h00 and ends 30-10-2016 at 16h00. The rooms at the castle are available at 16h00 on Thursday.
+The conference starts 29-10-2021 at 17h00 and ends 31-10-2021 at 16h00. The rooms at the castle are available at 16h00 on Thursday.
 
 How to get to the "Château de Rochegude" ?
 
@@ -48,7 +48,7 @@ Try searching for direction on Google Maps
 
  - [Google Maps](https://www.google.com/maps/dir/''/Ch%C3%A2teau+de+Rochegude+Place+du+Colombier+26790+Rochegude/@44.2476236,4.7581591,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x12b59c39086bae0b:0x3af8906539260944!2m2!1d4.8281989!2d44.247645)
 
-Let's self-organize : [Make your input to the wiki](https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki)
+Let's self-organize : [Make your input to the wiki](https://github.com/SoCraTes-MA/socrates-ma.github.io/wiki)
 
 ## Values
 
@@ -93,6 +93,7 @@ The first “Software Craftsmanship and Testing (un)conference” took place a f
 You can find out more info about SoCraTes and sisters at the links below:
 
 - [SoCraTes](https://www.socrates-conference.de) [Twitter](https://twitter.com/socrates_2016)
+- [SoCraTes_FR](https://socrates-fr.github.io/) [Twitter](https://twitter.com/socrates_fr)
 - [SoCraTes_UK](http://socratesuk.org) [Twitter](https://twitter.com/SoCraTes_UK)
 - [SoCraTes_Canaries](http://www.socrates-conference.es) [Twitter](https://twitter.com/#socracan16)
 - [SoCraTes_Day_Switzerland](http://socrates-day.ch) [Twitter](https://twitter.com/SoCraTesDay_CH)

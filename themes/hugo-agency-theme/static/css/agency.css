@@ -209,7 +209,15 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
+    color: #0b0a07;
+}
+
+.navbar-shrink .nav li a {
     color: #fff;
+}
+
+.navbar-default{
+    background-color: #adadad  !important;
 }
 
 .navbar-default .nav li a:hover,

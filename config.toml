@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://socrates-fr.github.io/"
 languageCode = "en-us"
-title = "SoCraTes-FR"
+title = "SoCraTes-MA"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-60791139-1"
@@ -17,7 +17,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# To provide some metadata for search engines feel free to add a few
 	# information about you and your website.
-	name = "SoCraTes FRance"
+	name = "SoCraTes Maroc"
 	description = "International Conference for Software Craft and Testing"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -31,12 +31,12 @@ googleAnalytics = "UA-60791139-1"
 	# - send a dummy email yourself to confirm your account
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
-	email = "test@gmail.com"
+	email = "socrates.ma@gmail.com"
 	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2019"
+		brand = "SoCraTes MAroc 2021"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -56,15 +56,15 @@ googleAnalytics = "UA-60791139-1"
 
 	# postpended links
 	[[menu.postpend]]
-		url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
+		url = "https://github.com/SoCraTes-MA/socrates-ma.github.io/wiki"
 		name = "Wiki"
 
 	# Hero section
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 17-20th, 2019.<br>International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes FRance 2019"
+		title = "October 29-31th, 2021.<br>International Conference for Software Craft and Testing."
+		subtitle = "SoCraTes MAroc 2021"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -120,39 +120,14 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "October, 2019"
-			title = "Fifth edition"
+			date = "October, 2021"
+			title = "First edition"
 			description = "Coming soon"
-
-		[[params.about.events]]
-			img = "3.jpg"
-			date = "October 25-28th, 2018"
-			title = "Forth edition"
-			description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
-
-		[[params.about.events]]
-			img = "3.jpg"
-			date = "October 26-29th, 2017"
-			title = "Third edition"
-			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Drôme)"
-
-		[[params.about.events]]
-			img = "3.jpg"
-			date = "October 27-30th, 2016"
-			title = "Second edition"
-			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Drôme)"
-
-		[[params.about.events]]
-			img = "3.jpg"
-			date = "September 2015"
-			title = "First Edition"
-			description = "It occurred at the beautiful castle 'Château de Rochegude' - France (Drôme)"
-
 
 	# Team section
 	[params.team]
 		enable = true
-		title = "SoCraTes-FR is a part of a big family."
+		title = "SoCraTes-MA is a part of a big family."
 		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences have emerged in other European countries such as SoCraTes UK and SoCraTes Canaries."
 
@@ -286,10 +261,10 @@ googleAnalytics = "UA-60791139-1"
 		# 	logo = "codecentric-square.png"
 		# 	link = "http://www.codecentric.de"
 
-		# [[params.sponsor]]
-    #      	name = "Meritis"
-    #      	logo = "meritis-square.png"
-    #      	link = "http://meritis.fr"
+		 [[params.sponsor]]
+          	name = "McKinsey & Company"
+          	logo = "mck-square.png"
+          	link = "https://www.mckinsey.com/"
 
 		 [[params.sponsor]]
 		 	name = "Novencia"
@@ -375,4 +350,4 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.footer.social]]
 			icon = "fa-twitter"
-			link = "https://twitter.com/SoCraTes_FR/"
+			link = "https://twitter.com/SoCraTes_MA/"
