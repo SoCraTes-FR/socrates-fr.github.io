@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12 text-center">
                         <div class="explains">{{ with .Site.Params.contact.explains }}{{ . | markdownify }}{{ end }}</div>
-                        <!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSeDUFS6H_qOIbFB-HQAG1Dx3l2cHONPXyA4DjiXlUkhN6qHDw/viewform?usp=sf_link" class="btn btn-xl">I want to pre-register!</a>-->
+                        <a href="https://docs.google.com/forms/d/e/{{ with .Site.Params.gforms }}{{.}}{{ end }}/viewform?usp=sf_link" class="btn btn-xl">I want to pre-register!</a>
                     </div>
                     <div class="clearfix"></div>
                 </div>

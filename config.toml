@@ -4,7 +4,8 @@ languageCode = "en-us"
 title = "SoCraTes-MA"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-60791139-1"
+googleAnalytics = "278882533"
+
 
 [params]
 
@@ -32,7 +33,7 @@ googleAnalytics = "UA-60791139-1"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "socrates.ma@gmail.com"
-	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
+	gforms = "1FAIpQLSf-fnFC8qOqnBmL3-NaoG2KjEZHXosNsl39DwgJvwEs1_qzOg"
 
 	# Navigation
 	[params.navigation]
@@ -63,8 +64,8 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 29-31th, 2021. International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes MAroc 2021"
+		title = "Feb-March, 2022. International Conference for Software Craft and Testing."
+		subtitle = "SoCraTes MAroc 2022"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -120,7 +121,7 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "October, 2021"
+			date = "Feb-March, 2022"
 			title = "First edition"
 			description = "Coming soon"
 
@@ -227,7 +228,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = true
+		enable = false
 		title = "Our Sponsors"
 		subtitle = ""
 
@@ -301,47 +302,17 @@ googleAnalytics = "UA-60791139-1"
 		# 	logo = "zenika-square.jpg"
 		# 	link = "http://www.zenika.com"
 
-	# Client section
-	[params.clients_list]
-		enable = false
-
-		# All the clients' logos are stored under 'static/img/logos'.
-		# Replace them with your clients's logos.
-		[[params.clients]]
-			logo = "test.jpg"
-			link = "http://www.test.fr"
-
 	[params.socratesday]
-		enable = true
-		title = "Socrates Day France"
+		enable = false
+		title = "Sponsorship"
 		subtitle = ""
 		description = "SoCraTes Day is an International Conference for Software Craft and Testing, a single-day version of the full SoCraTes Conferences. It provides an ideal setting for speaking to and coding with other talented and engaged developers, letting us learn from and with each other."
-
-		[[params.socratesday.members]]
-			img = "socratesrenne.png"
-			name = "SoCraTes-FR Rennes"
-			position = "Rennes"
-			social = [
-				["fa-twitter", "https://twitter.com/socratesday_fr"],
-				["fa-link", "https://socrates-rennes.github.io"]
-			]
-
-		[[params.socratesday.members]]
-			img = "alpescraft.png"
-			name = "AlpesCraft | SoCraTes-FR Grenoble"
-			position = "Grenoble"
-			social = [
-				["fa-twitter", "https://twitter.com/AlpesCraft"],
-				["fa-link", "https://www.alpescraft.fr/"]
-			]
 
 	[params.contact]
 		enable = true
 		title = "Registration"
-		subtitle  = ""
-		buttontext = ""
-		explains = "Registration is now closed."
-		#explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
+		subtitle  = "Pre-registration is now open. Please leave your email here to let us know you will PROBABLY participate in the event."
+		buttonText = "Send message"
 
 	# Footer section
 	[params.footer]
