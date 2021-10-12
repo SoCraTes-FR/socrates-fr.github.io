@@ -63,7 +63,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "March, 2022.<br>International Conference for Software Craft and Testing."
+		title = "March 17-20th, 2022.<br>International Conference for Software Craft and Testing."
 		subtitle = "SoCraTes FRance 2022"
 		buttontext = "Tell me more"
 
@@ -120,7 +120,7 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "March, 2022"
+			date = "March 17-20th, 2022"
 			title = "Sixth edition"
 			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
