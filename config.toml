@@ -272,6 +272,11 @@ googleAnalytics = "UA-60791139-1"
 			logo = "lacombedulionvert-square.png"
 			link = "https://www.lacombedulionvert.fr/"
 
+		[[params.sponsor]]
+			name = "Edwyn"
+			logo = "edwyn-square.png"
+			link = "https://www.edwyn.tech/"
+
 #		[[params.sponsor]]
 #			name = "Octo Technology"
 #			logo = "octo-square.png"
