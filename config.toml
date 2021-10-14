@@ -277,6 +277,11 @@ googleAnalytics = "UA-60791139-1"
 			logo = "edwyn-square.png"
 			link = "https://www.edwyn.tech/"
 
+		[[params.sponsor]]
+			name = "Kaïbee"
+			logo = "kaibee-square.png"
+			link = "https://kaibee.fr/"
+
 #		[[params.sponsor]]
 #			name = "Octo Technology"
 #			logo = "octo-square.png"
