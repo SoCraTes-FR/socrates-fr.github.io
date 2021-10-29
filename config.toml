@@ -263,14 +263,14 @@ googleAnalytics = "UA-60791139-1"
 		subtitle = ""
 
 		[[params.sponsor]]
-			name = "CodeWorks"
-			logo = "codeworks-square.png"
-			link = "https://www.codeworks.fr/"
-
-		[[params.sponsor]]
 			name = "La Combe du Lion Vert"
 			logo = "lacombedulionvert-square.png"
 			link = "https://www.lacombedulionvert.fr/"
+
+		[[params.sponsor]]
+			name = "CodeWorks"
+			logo = "codeworks-square.png"
+			link = "https://www.codeworks.fr/"
 
 		[[params.sponsor]]
 			name = "Edwyn"
@@ -278,9 +278,19 @@ googleAnalytics = "UA-60791139-1"
 			link = "https://www.edwyn.tech/"
 
 		[[params.sponsor]]
+			name = "Shodo"
+			logo = "shodo-square.png"
+			link = "https://shodo.io"
+
+		[[params.sponsor]]
 			name = "Kaïbee"
 			logo = "kaibee-square.png"
 			link = "https://kaibee.fr/"
+
+		[[params.sponsor]]
+			name = "Wemanity"
+			logo = "wemanity-square.png"
+			link = "https://wemanity.com/"
 
 #		[[params.sponsor]]
 #			name = "Octo Technology"
@@ -291,11 +301,6 @@ googleAnalytics = "UA-60791139-1"
  #				name = "SOAT"
  #				logo = "soat-square.png"
  #				link = "http://www.soat.fr"
-
-#		[[params.sponsor]]
-#			name = "Shodo"
-#			logo = "shodo-square.png"
-#			link = "https://shodo.io"
 
 #		[[params.sponsor]]
  #		 		name = "Aneo"
