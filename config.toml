@@ -36,7 +36,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2019"
+		brand = "SoCraTes FRance 2022"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -63,8 +63,8 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 17-20th, 2019.<br>International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes FRance 2019"
+		title = "March 17-20th, 2022.<br>International Conference for Software Craft and Testing."
+		subtitle = "SoCraTes FRance 2022"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -120,9 +120,15 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "October, 2019"
+			date = "March 17-20th, 2022"
+			title = "Sixth edition"
+			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "October 17-20th, 2019"
 			title = "Fifth edition"
-			description = "Coming soon"
+			description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -257,19 +263,19 @@ googleAnalytics = "UA-60791139-1"
 		subtitle = ""
 
 		[[params.sponsor]]
-			name = "Arolla"
-			logo = "arolla-square.jpg"
-			link = "http://www.arolla.fr"
+			name = "La Combe du Lion Vert"
+			logo = "lacombedulionvert-square.png"
+			link = "https://www.lacombedulionvert.fr/"
 
 		[[params.sponsor]]
-			name = "Octo Technology"
-			logo = "octo-square.png"
-			link = "http://www.octo.com"
+			name = "CodeWorks"
+			logo = "codeworks-square.png"
+			link = "https://www.codeworks.fr/"
 
- 		[[params.sponsor]]
- 				name = "SOAT"
- 				logo = "soat-square.png"
- 				link = "http://www.soat.fr"
+		[[params.sponsor]]
+			name = "Edwyn"
+			logo = "edwyn-square.png"
+			link = "https://www.edwyn.tech/"
 
 		[[params.sponsor]]
 			name = "Shodo"
@@ -277,9 +283,29 @@ googleAnalytics = "UA-60791139-1"
 			link = "https://shodo.io"
 
 		[[params.sponsor]]
- 		 		name = "Aneo"
- 		 		logo = "aneo-square.jpg"
- 		 		link = "http://www.aneo.eu"
+			name = "Kaïbee"
+			logo = "kaibee-square.png"
+			link = "https://kaibee.fr/"
+
+		[[params.sponsor]]
+			name = "Wemanity"
+			logo = "wemanity-square.png"
+			link = "https://wemanity.com/"
+
+#		[[params.sponsor]]
+#			name = "Octo Technology"
+#			logo = "octo-square.png"
+#			link = "http://www.octo.com"
+
+ #		[[params.sponsor]]
+ #				name = "SOAT"
+ #				logo = "soat-square.png"
+ #				link = "http://www.soat.fr"
+
+#		[[params.sponsor]]
+ #		 		name = "Aneo"
+ #		 		logo = "aneo-square.jpg"
+ #		 		link = "http://www.aneo.eu"
 
 		# [[params.sponsor]]
 		# 	name = "codecentric"
@@ -291,20 +317,20 @@ googleAnalytics = "UA-60791139-1"
     #      	logo = "meritis-square.png"
     #      	link = "http://meritis.fr"
 
-		 [[params.sponsor]]
-		 	name = "Novencia"
-		 	logo = "novencia-square.jpg"
-		 	link = "http://www.novencia.com"
+	#	 [[params.sponsor]]
+	#	 	name = "Novencia"
+	#	 	logo = "novencia-square.jpg"
+	#	 	link = "http://www.novencia.com"
 
-		 [[params.sponsor]]
-		 	name = "Axa"
-		 	logo = "axa-square.jpg"
-		 	link = "https://www.axa.fr"
+	#	 [[params.sponsor]]
+	#	 	name = "Axa"
+	#	 	logo = "axa-square.jpg"
+	#	 	link = "https://www.axa.fr"
 
-		 [[params.sponsor]]
-        	name = "BCG Platinion"
-        	logo = "bcg-square.png"
-        	link = "https://www.bcg.com/"
+	#	 [[params.sponsor]]
+	#   	name = "BCG Platinion"
+ 	#  	logo = "bcg-square.png"
+	# 	link = "https://www.bcg.com/"
 
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
@@ -316,10 +342,10 @@ googleAnalytics = "UA-60791139-1"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
- 		 [[params.sponsor]]
- 		 	name = "Orange"
- 		 	logo = "orange-square.png"
- 		 	link = "https://developer.orange.com"
+		# [[params.sponsor]]
+		#	name = "Orange"
+ 		# 	logo = "orange-square.png"
+ 		# 	link = "https://developer.orange.com"
 
 		# [[params.sponsor]]
 		# 	name = "Zenika"
@@ -365,7 +391,7 @@ googleAnalytics = "UA-60791139-1"
 		title = "Registration"
 		subtitle  = ""
 		buttontext = ""
-		explains = "Registration is now closed."
+		explains = "Pre-Registration is coming soon."
 		#explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
 
 	# Footer section
