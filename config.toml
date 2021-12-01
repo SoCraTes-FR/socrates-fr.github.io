@@ -265,17 +265,17 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "La Combe du Lion Vert"
 			logo = "lacombedulionvert-square.png"
-			link = "https://www.lacombedulionvert.fr"
+			link = "https://www.lacombedulionvert.fr/"
 
 		[[params.sponsor]]
 			name = "CodeWorks"
 			logo = "codeworks-square.png"
-			link = "https://www.codeworks.fr"
+			link = "https://www.codeworks.fr/"
 
 		[[params.sponsor]]
 			name = "Edwyn"
 			logo = "edwyn-square.png"
-			link = "https://www.edwyn.tech"
+			link = "https://www.edwyn.tech/"
 
 		[[params.sponsor]]
 			name = "Shodo"
@@ -285,12 +285,12 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "Kaïbee"
 			logo = "kaibee-square.png"
-			link = "https://kaibee.fr"
+			link = "https://kaibee.fr/"
 
 		[[params.sponsor]]
 			name = "Wemanity"
 			logo = "wemanity-square.png"
-			link = "https://wemanity.com"
+			link = "https://wemanity.com/"
 
 		[[params.sponsor]]
 			name = "Octo Technology"
