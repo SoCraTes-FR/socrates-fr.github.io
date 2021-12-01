@@ -179,7 +179,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
-				["fa-twitter", "https://twitter.com/socrates_2016"],
+				["fa-twitter", "https://twitter.com/SoCraTes_Conf"],
 				["fa-link", "https://www.socrates-conference.de"]
 			]
 
@@ -197,8 +197,8 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Canaries"
 			position = "Spain"
 			social = [
-				["fa-twitter", "https://twitter.com/#socracan16"],
-				["fa-link", "http://www.socrates-conference.es"]
+				["fa-twitter", "https://twitter.com/socracan"],
+				["fa-link", "https://www.socracan.com"]
 			]
 
 		[[params.team.members]]
@@ -215,7 +215,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes BE"
 			position = "Belgium"
 			social = [
-				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
+				["fa-twitter", "https://twitter.com/SoCraTes_BE"],
 				["fa-link", "http://socratesbe.org"]
 			]
 
@@ -265,17 +265,17 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "La Combe du Lion Vert"
 			logo = "lacombedulionvert-square.png"
-			link = "https://www.lacombedulionvert.fr/"
+			link = "https://www.lacombedulionvert.fr"
 
 		[[params.sponsor]]
 			name = "CodeWorks"
 			logo = "codeworks-square.png"
-			link = "https://www.codeworks.fr/"
+			link = "https://www.codeworks.fr"
 
 		[[params.sponsor]]
 			name = "Edwyn"
 			logo = "edwyn-square.png"
-			link = "https://www.edwyn.tech/"
+			link = "https://www.edwyn.tech"
 
 		[[params.sponsor]]
 			name = "Shodo"
@@ -285,17 +285,17 @@ googleAnalytics = "UA-60791139-1"
 		[[params.sponsor]]
 			name = "Kaïbee"
 			logo = "kaibee-square.png"
-			link = "https://kaibee.fr/"
+			link = "https://kaibee.fr"
 
 		[[params.sponsor]]
 			name = "Wemanity"
 			logo = "wemanity-square.png"
-			link = "https://wemanity.com/"
+			link = "https://wemanity.com"
 
-#		[[params.sponsor]]
-#			name = "Octo Technology"
-#			logo = "octo-square.png"
-#			link = "http://www.octo.com"
+		[[params.sponsor]]
+			name = "Octo Technology"
+			logo = "octo-square.png"
+			link = "http://www.octo.com"
 
  #		[[params.sponsor]]
  #				name = "SOAT"
