@@ -179,7 +179,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
-				["fa-twitter", "https://twitter.com/socrates_2016"],
+				["fa-twitter", "https://twitter.com/SoCraTes_Conf"],
 				["fa-link", "https://www.socrates-conference.de"]
 			]
 
@@ -197,8 +197,8 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Canaries"
 			position = "Spain"
 			social = [
-				["fa-twitter", "https://twitter.com/#socracan16"],
-				["fa-link", "http://www.socrates-conference.es"]
+				["fa-twitter", "https://twitter.com/socracan"],
+				["fa-link", "https://www.socracan.com"]
 			]
 
 		[[params.team.members]]
@@ -215,7 +215,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes BE"
 			position = "Belgium"
 			social = [
-				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
+				["fa-twitter", "https://twitter.com/SoCraTes_BE"],
 				["fa-link", "http://socratesbe.org"]
 			]
 
@@ -292,10 +292,10 @@ googleAnalytics = "UA-60791139-1"
 			logo = "wemanity-square.png"
 			link = "https://wemanity.com/"
 
-#		[[params.sponsor]]
-#			name = "Octo Technology"
-#			logo = "octo-square.png"
-#			link = "http://www.octo.com"
+		[[params.sponsor]]
+			name = "Octo Technology"
+			logo = "octo-square.png"
+			link = "http://www.octo.com"
 
  #		[[params.sponsor]]
  #				name = "SOAT"
