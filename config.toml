@@ -297,6 +297,11 @@ googleAnalytics = "UA-60791139-1"
 			logo = "octo-square.png"
 			link = "http://www.octo.com"
 
+		[[params.sponsor]]
+			name = "Alcor.Academy"
+			logo = "alcoracademy-square.png"
+			link = "https://alcor.academy/"
+
  #		[[params.sponsor]]
  #				name = "SOAT"
  #				logo = "soat-square.png"
