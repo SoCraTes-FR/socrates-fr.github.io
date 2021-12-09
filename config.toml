@@ -302,6 +302,11 @@ googleAnalytics = "UA-60791139-1"
 			logo = "alcoracademy-square.png"
 			link = "https://alcor.academy/"
 
+		[[params.sponsor]]
+			name = "HackYourJob"
+			logo = "hackyourjob-square.png"
+			link = "https://www.hackyourjob.org/"
+
  #		[[params.sponsor]]
  #				name = "SOAT"
  #				logo = "soat-square.png"
