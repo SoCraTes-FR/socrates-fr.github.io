@@ -303,7 +303,7 @@ googleAnalytics = "UA-60791139-1"
 			link = "https://alcor.academy/"
 
 		[[params.sponsor]]
-			name = "HackYourJob"
+			name = "HackYourJob Community"
 			logo = "hackyourjob-square.png"
 			link = "https://www.hackyourjob.org/"
 
