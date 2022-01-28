@@ -202,6 +202,15 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
+			img = "SoCraTes_CH.jpeg"
+			name = "SoCraTes Conf Switzerland"
+			position = "Switzerland"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTes_CH"],
+				["fa-link", "http://socrates-ch.org"]
+			]
+
+		[[params.team.members]]
 			img = "SoCraTesDay_CH.jpeg"
 			name = "SoCraTes Day Switzerland"
 			position = "Switzerland"
