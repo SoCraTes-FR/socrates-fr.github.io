@@ -341,6 +341,11 @@ googleAnalytics = "UA-60791139-1"
 		 	logo = "novencia-square.jpg"
 		 	link = "http://www.novencia.com"
 
+	[[params.sponsor]]
+		 	name = "Snyk"
+		 	logo = "snyk-square.jpg"
+		 	link = "https://snyk.io"
+
 	#	 [[params.sponsor]]
 	#	 	name = "Axa"
 	#	 	logo = "axa-square.jpg"
