@@ -336,10 +336,10 @@ googleAnalytics = "UA-60791139-1"
     #      	logo = "meritis-square.png"
     #      	link = "http://meritis.fr"
 
-	#	 [[params.sponsor]]
-	#	 	name = "Novencia"
-	#	 	logo = "novencia-square.jpg"
-	#	 	link = "http://www.novencia.com"
+	[[params.sponsor]]
+		 	name = "Novencia"
+		 	logo = "novencia-square.jpg"
+		 	link = "http://www.novencia.com"
 
 	#	 [[params.sponsor]]
 	#	 	name = "Axa"
