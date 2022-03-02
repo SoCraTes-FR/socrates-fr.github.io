@@ -338,7 +338,7 @@ googleAnalytics = "UA-60791139-1"
 
 	[[params.sponsor]]
 		 	name = "Novencia"
-		 	logo = "novencia-square.jpg"
+		 	logo = "novencia-square.png"
 		 	link = "http://www.novencia.com"
 
 	[[params.sponsor]]
