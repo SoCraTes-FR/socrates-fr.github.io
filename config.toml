@@ -36,7 +36,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2022"
+		brand = "SoCraTes FRance 2023"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -63,8 +63,8 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "March 17-20th, 2022.<br>International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes FRance 2022"
+		title = "October 26-29th, 2023.<br>International Conference for Software Craft and Testing."
+		subtitle = "SoCraTes FRance 2023"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -120,9 +120,15 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 			img = "1.jpg"
+			date = "October 26-29th, 2023"
+			title = "Sixth edition"
+			description = "It will take place at Domaine de Rebetz - France (Oise)"
+
+		[[params.about.events]]
+			img = "3.jpg"
 			date = "March 17-20th, 2022"
 			title = "Sixth edition"
-			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+			description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -268,28 +274,8 @@ googleAnalytics = "UA-60791139-1"
 	# Sponsor section
 	[params.sponsors]
 		enable = true
-		title = "Our Sponsors"
+		title = "Our Sponsors 2023"
 		subtitle = ""
-
-		[[params.sponsor]]
-			name = "La Combe du Lion Vert"
-			logo = "lacombedulionvert-square.png"
-			link = "https://www.lacombedulionvert.fr/"
-
-		[[params.sponsor]]
-			name = "CodeWorks"
-			logo = "codeworks-square.png"
-			link = "https://www.codeworks.fr/"
-
-		[[params.sponsor]]
-			name = "Edwyn"
-			logo = "edwyn-square.png"
-			link = "https://www.edwyn.tech/"
-
-		[[params.sponsor]]
-			name = "Shodo"
-			logo = "shodo-square.png"
-			link = "https://shodo.io"
 
 		[[params.sponsor]]
 			name = "Kaïbee"
@@ -297,9 +283,29 @@ googleAnalytics = "UA-60791139-1"
 			link = "https://kaibee.fr/"
 
 		[[params.sponsor]]
-			name = "Wemanity"
-			logo = "wemanity-square.png"
-			link = "https://wemanity.com/"
+			name = "La Combe du Lion Vert"
+			logo = "lacombedulionvert-square.png"
+			link = "https://www.lacombedulionvert.fr/"
+
+#		[[params.sponsor]]
+#			name = "CodeWorks"
+#			logo = "codeworks-square.png"
+#			link = "https://www.codeworks.fr/"
+
+#		[[params.sponsor]]
+#			name = "Edwyn"
+#			logo = "edwyn-square.png"
+#			link = "https://www.edwyn.tech/"
+
+		[[params.sponsor]]
+			name = "Shodo"
+			logo = "shodo-square.png"
+			link = "https://shodo.io"
+
+#		[[params.sponsor]]
+#			name = "Wemanity"
+#			logo = "wemanity-square.png"
+#			link = "https://wemanity.com/"
 
 		[[params.sponsor]]
 			name = "Octo Technology"
@@ -307,54 +313,54 @@ googleAnalytics = "UA-60791139-1"
 			link = "http://www.octo.com"
 
 		[[params.sponsor]]
-			name = "Alcor.Academy"
-			logo = "alcoracademy-square.png"
-			link = "https://alcor.academy/"
-
-		[[params.sponsor]]
 			name = "HackYourJob Community"
 			logo = "hackyourjob-square.png"
 			link = "https://www.hackyourjob.org/"
 
- #		[[params.sponsor]]
- #				name = "SOAT"
- #				logo = "soat-square.png"
- #				link = "http://www.soat.fr"
+#		[[params.sponsor]]
+#			name = "SOAT"
+#			logo = "soat-square.png"
+#			link = "http://www.soat.fr"
 
 #		[[params.sponsor]]
- #		 		name = "Aneo"
- #		 		logo = "aneo-square.jpg"
- #		 		link = "http://www.aneo.eu"
+#		 	name = "Aneo"
+#		 	logo = "aneo-square.jpg"
+#		 	link = "http://www.aneo.eu"
 
-		# [[params.sponsor]]
-		# 	name = "codecentric"
-		# 	logo = "codecentric-square.png"
-		# 	link = "http://www.codecentric.de"
+# 		[[params.sponsor]]
+# 			name = "codecentric"
+# 			logo = "codecentric-square.png"
+# 			link = "http://www.codecentric.de"
 
-		# [[params.sponsor]]
-    #      	name = "Meritis"
-    #      	logo = "meritis-square.png"
-    #      	link = "http://meritis.fr"
+# 		[[params.sponsor]]
+#      		name = "Meritis"
+#      		logo = "meritis-square.png"
+#      		link = "http://meritis.fr"
 
-	[[params.sponsor]]
+		[[params.sponsor]]
 		 	name = "Novencia"
 		 	logo = "novencia-square.png"
 		 	link = "http://www.novencia.com"
 
-	[[params.sponsor]]
-		 	name = "Snyk"
-		 	logo = "snyk-square.jpg"
-		 	link = "https://snyk.io"
+		[[params.sponsor]]
+			name = "Alcor.Academy"
+			logo = "alcoracademy-square.png"
+			link = "https://alcor.academy/"
 
-	#	 [[params.sponsor]]
-	#	 	name = "Axa"
-	#	 	logo = "axa-square.jpg"
-	#	 	link = "https://www.axa.fr"
+#		[[params.sponsor]]
+#		 	name = "Snyk"
+#		 	logo = "snyk-square.jpg"
+#		 	link = "https://snyk.io"
 
-	#	 [[params.sponsor]]
-	#   	name = "BCG Platinion"
- 	#  	logo = "bcg-square.png"
-	# 	link = "https://www.bcg.com/"
+#	 	[[params.sponsor]]
+#	 		name = "Axa"
+#	 		logo = "axa-square.jpg"
+#	 		link = "https://www.axa.fr"
+
+#		 [[params.sponsor]]
+#   		name = "BCG Platinion"
+#  			logo = "bcg-square.png"
+# 			link = "https://www.bcg.com/"
 
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
@@ -366,15 +372,15 @@ googleAnalytics = "UA-60791139-1"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
-		# [[params.sponsor]]
-		#	name = "Orange"
- 		# 	logo = "orange-square.png"
- 		# 	link = "https://developer.orange.com"
+# 		[[params.sponsor]]
+#			name = "Orange"
+# 			logo = "orange-square.png"
+# 			link = "https://developer.orange.com"
 
-		# [[params.sponsor]]
-		# 	name = "Zenika"
-		# 	logo = "zenika-square.jpg"
-		# 	link = "http://www.zenika.com"
+# 		[[params.sponsor]]
+# 			name = "Zenika"
+# 			logo = "zenika-square.jpg"
+# 			link = "http://www.zenika.com"
 
 	# Client section
 	[params.clients_list]
