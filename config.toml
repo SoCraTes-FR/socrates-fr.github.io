@@ -58,6 +58,9 @@ googleAnalytics = "UA-60791139-1"
 	[[menu.postpend]]
 		url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
 		name = "Wiki"
+	[[menu.postpend]]
+		url = "/doc/coc.pdf"
+		name = "CoC"
 
 	# Hero section
 	[params.hero]
@@ -119,10 +122,10 @@ googleAnalytics = "UA-60791139-1"
 		# Replace them with your own.
 
 		[[params.about.events]]
-			img = "1.jpg"
+			img = "3.jpg"
 			date = "October 26-29th, 2023"
 			title = "Sixth edition"
-			description = "It will take place at Domaine de Rebetz - France (Oise)"
+			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -287,16 +290,6 @@ googleAnalytics = "UA-60791139-1"
 			logo = "lacombedulionvert-square.png"
 			link = "https://www.lacombedulionvert.fr/"
 
-#		[[params.sponsor]]
-#			name = "CodeWorks"
-#			logo = "codeworks-square.png"
-#			link = "https://www.codeworks.fr/"
-
-#		[[params.sponsor]]
-#			name = "Edwyn"
-#			logo = "edwyn-square.png"
-#			link = "https://www.edwyn.tech/"
-
 		[[params.sponsor]]
 			name = "Shodo"
 			logo = "shodo-square.png"
@@ -343,9 +336,14 @@ googleAnalytics = "UA-60791139-1"
 		 	link = "http://www.novencia.com"
 
 		[[params.sponsor]]
-			name = "Alcor.Academy"
-			logo = "alcoracademy-square.png"
-			link = "https://alcor.academy/"
+		 	name = "Pix"
+		 	logo = "pix-square.jpg"
+		 	link = "https://pix.fr/"
+
+#		[[params.sponsor]]
+#			name = "Alcor.Academy"
+#			logo = "alcoracademy-square.png"
+#			link = "https://alcor.academy/"
 
 #		[[params.sponsor]]
 #		 	name = "Snyk"
@@ -421,7 +419,7 @@ googleAnalytics = "UA-60791139-1"
 		title = "Registration"
 		subtitle  = ""
 		buttontext = ""
-		explains = "Registration is now closed."
+		explains = "Registration is now open."
 		#explains = "Pre-registration is now open. If the number of participants exceeds 50, a random draw will be held on the end of May."
 
 	# Footer section
