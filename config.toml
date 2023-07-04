@@ -179,7 +179,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes FR"
 			position = "France"
 			social = [
-				["fa-twitter", "https://twitter.com/#socratesfr"],
+				["fa-twitter", "https://twitter.com/socrates_fr"],
 				["fa-link", "https://socrates-fr.github.io"]
 			]
 
@@ -251,7 +251,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "CodeFreeze"
 			position = "Finland"
 			social = [
-				["fa-twitter", "https://twitter.com/codefreeze_fi"],
+				["fa-twitter", "https://discuss.systems/@codefreeze"],
 				["fa-link", "http://www.codefreeze.fi"]
 			]
 
