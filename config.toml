@@ -124,7 +124,7 @@ googleAnalytics = "UA-60791139-1"
 		[[params.about.events]]
 			img = "3.jpg"
 			date = "October 26-29th, 2023"
-			title = "Sixth edition"
+			title = "Seventh edition"
 			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
