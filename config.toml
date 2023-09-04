@@ -342,7 +342,7 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.sponsor]]
 		 	name = "McKinsey & Company"
-		 	logo = "mckinsey-square.jpg"
+		 	logo = "mckinsey-square.png"
 		 	link = "https://www.mckinsey.com/"
 
 #		[[params.sponsor]]
