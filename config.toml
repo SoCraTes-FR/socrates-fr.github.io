@@ -290,6 +290,12 @@ googleAnalytics = "UA-60791139-1"
 			logo = "lacombedulionvert-square.png"
 			link = "https://www.lacombedulionvert.fr/"
 
+
+#		[[params.sponsor]]
+#			name = "Edwyn"
+#			logo = "edwyn-square.png"
+#			link = "https://www.edwyn.tech/"
+
 		[[params.sponsor]]
 			name = "Shodo"
 			logo = "shodo-square.png"
@@ -344,6 +350,11 @@ googleAnalytics = "UA-60791139-1"
 		 	name = "McKinsey & Company"
 		 	logo = "mckinsey-square.png"
 		 	link = "https://www.mckinsey.com/"
+
+		[[params.sponsor]]
+			name = "CodeWorks"
+			logo = "codeworks-square.png"
+			link = "https://www.codeworks.fr/"
 
 #		[[params.sponsor]]
 #			name = "Alcor.Academy"
