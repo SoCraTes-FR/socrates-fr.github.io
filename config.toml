@@ -430,6 +430,16 @@ googleAnalytics = "UA-60791139-1"
 				["fa-link", "https://www.alpescraft.fr/"]
 			]
 
+		[[params.socratesday.members]]
+			img = "helloworldnantes.png"
+			name = "Hello World Nantes"
+			position = "Nantes"
+			social = [
+				["fa-twitter", "https://twitter.com/helloworldconf"],
+				["fa-link", "https://www.hello-world.events/"]
+			]
+
+
 	[params.contact]
 		enable = true
 		title = "Registration"
