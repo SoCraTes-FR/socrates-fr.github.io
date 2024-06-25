@@ -66,8 +66,8 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 26-29th, 2023.<br>International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes FRance 2023"
+		title = "December ?th, 2024.<br>International Conference for Software Craft and Testing."
+		subtitle = "SoCraTes FRance 2024"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -122,10 +122,16 @@ googleAnalytics = "UA-60791139-1"
 		# Replace them with your own.
 
 		[[params.about.events]]
+		img = "3.jpg"
+		date = "December ?th, 2024"
+		title = "Eighth edition"
+		description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+
+		[[params.about.events]]
 			img = "3.jpg"
 			date = "October 26-29th, 2023"
 			title = "Seventh edition"
-			description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+			description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -276,7 +282,7 @@ googleAnalytics = "UA-60791139-1"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = true
+		enable = false
 		title = "Our Sponsors 2023"
 		subtitle = ""
 
