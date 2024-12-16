@@ -279,6 +279,15 @@ googleAnalytics = "UA-60791139-1"
 				["fa-link", "https://agilecrete.org"]
 			]
 
+		[[params.team.members]]
+			img = "frogs-conf.png"
+			name = "Friends of Good Software"
+			position = "online from The Netherlands"
+			social = [
+				["fa-linkedin", "https://www.linkedin.com/company/frogsconf/"],
+				["fa-link", "https://frogsconf.nl/"]
+			]
+
 
 	# Sponsor section
 	[params.sponsors]
