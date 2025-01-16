@@ -320,6 +320,11 @@ googleAnalytics = "UA-60791139-1"
 		logo = "kapsul-square.jpeg"
 		link = "https://www.kapsul.io/"
 
+		[[params.sponsor]]
+		 	name = "McKinsey & Company"
+		 	logo = "mckinsey-square.png"
+		 	link = "https://www.mckinsey.com/"
+
 #	[[params.sponsor]]
 #		name = "Shodo"
 #		logo = "shodo-square.png"
@@ -380,12 +385,6 @@ googleAnalytics = "UA-60791139-1"
 #		 	name = "Pix"
 #		 	logo = "pix-square.jpg"
 #		 	link = "https://pix.fr/"
-#
-#		[[params.sponsor]]
-#		 	name = "McKinsey & Company"
-#		 	logo = "mckinsey-square.png"
-#		 	link = "https://www.mckinsey.com/"
-
 
 #		[[params.sponsor]]
 #			name = "Alcor.Academy"
