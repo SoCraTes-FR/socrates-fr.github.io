@@ -317,13 +317,13 @@ googleAnalytics = "UA-60791139-1"
 
 	[[params.sponsor]]
 		name = "Kapsul"
-		logo = "kapsul-square.jpeg"
+		logo = "kapsul-square.jpg"
 		link = "https://www.kapsul.io/"
 
-		[[params.sponsor]]
-		 	name = "McKinsey & Company"
-		 	logo = "mckinsey-square.png"
-		 	link = "https://www.mckinsey.com/"
+    [[params.sponsor]]
+	    name = "McKinsey & Company"
+	    logo = "mckinsey-square.png"
+	    link = "https://www.mckinsey.com/"
 
 #	[[params.sponsor]]
 #		name = "Shodo"
