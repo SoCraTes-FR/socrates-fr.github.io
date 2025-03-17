@@ -325,6 +325,11 @@ googleAnalytics = "UA-60791139-1"
 	    logo = "mckinsey-square.png"
 	    link = "https://www.mckinsey.com/"
 
+	[[params.sponsor]]
+	    name = "Harvest Group"
+	    logo = "harvest-square.png"
+	    link = "https://www.harvest.eu/group/"
+
 #	[[params.sponsor]]
 #		name = "Shodo"
 #		logo = "shodo-square.png"
