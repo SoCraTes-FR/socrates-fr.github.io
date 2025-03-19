@@ -321,7 +321,7 @@ googleAnalytics = "UA-60791139-1"
 		link = "https://www.kapsul.io/"
 
     [[params.sponsor]]
-	    name = "QuantumBlack: AI by McKinsey"
+	    name = "QuantumBlack, AI by McKinsey"
 	    logo = "quantumblack-square.svg"
 	    link = "https://www.mckinsey.com/"
 
