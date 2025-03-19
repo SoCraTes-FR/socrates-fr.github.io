@@ -332,7 +332,7 @@ googleAnalytics = "UA-60791139-1"
 
 	[[params.sponsor]]
 		name = "Shodo"
-		logo = "shodo-square.png"
+		logo = "shodo-square.jpg"
 		link = "https://shodo.io"
 
 #		[[params.sponsor]]
