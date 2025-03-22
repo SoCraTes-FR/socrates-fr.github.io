@@ -185,7 +185,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes FR"
 			position = "France"
 			social = [
-				["fa-twitter", "https://twitter.com/socrates_fr"],
+				["fab fa-linkedin", "http://linkedin.com/company/socratesfr"],
 				["fa-link", "https://socrates-fr.github.io"]
 			]
 
@@ -194,7 +194,8 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTes_Conf"],
+				["fab fa-mastodon", "https://mastodon.social/@SoCraTes_Conf"],
+				["fab fa-linkedin", "https://www.linkedin.com/company/socrates-conference/"],
 				["fa-link", "https://www.socrates-conference.de"]
 			]
 
@@ -203,7 +204,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes UK"
 			position = "United Kingdom"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTes_UK"],
+				["fab fa-mastodon", "https://discuss.systems/@SoCraTes_UK"],
 				["fa-link", "http://socratesuk.org"]
 			]
 
@@ -212,7 +213,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Canaries"
 			position = "Spain"
 			social = [
-				["fa-twitter", "https://twitter.com/socracan"],
+				["fab fa-twitter", "https://twitter.com/socracan"],
 				["fa-link", "https://www.socracan.org/"]
 			]
 
@@ -221,7 +222,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Conf Switzerland"
 			position = "Switzerland"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTes_CH"],
+				["fab fa-mastodon", "https://tooting.ch/@socrates_ch"],
 				["fa-link", "http://socrates-ch.org"]
 			]
 
@@ -230,7 +231,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Day Switzerland"
 			position = "Switzerland"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTesDay_CH"],
+				["fab fa-twitter", "https://twitter.com/SoCraTesDay_CH"],
 				["fa-link", "http://socrates-day.ch"]
 			]
 
@@ -239,7 +240,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes BE"
 			position = "Belgium"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTes_BE"],
+				["fab fa-twitter", "https://twitter.com/SoCraTes_BE"],
 				["fa-link", "http://socratesbe.org"]
 			]
 
@@ -248,7 +249,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes IT"
 			position = "Italy"
 			social = [
-				["fa-twitter", "https://twitter.com/SoCraTes_Italy"],
+				["fab fa-twitter", "https://twitter.com/SoCraTes_Italy"],
 				["fa-link", "http://www.socrates-conference.it"]
 			]
 
@@ -257,7 +258,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "CodeFreeze"
 			position = "Finland"
 			social = [
-				["fa-twitter", "https://discuss.systems/@codefreeze"],
+				["fab fa-mastodon", "https://discuss.systems/@codefreeze"],
 				["fa-link", "http://www.codefreeze.fi"]
 			]
 
@@ -266,7 +267,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "I T.A.K.E. Unconference"
 			position = "Romania"
 			social = [
-				["fa-twitter", "https://twitter.com/itakeunconf"],
+				["fab fa-twitter", "https://twitter.com/itakeunconf"],
 				["fa-link", "http://itakeunconf.com"]
 			]
 
@@ -275,7 +276,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "AgileCrete Unconference"
 			position = "Crete, Greece"
 			social = [
-				["fa-twitter", "https://twitter.com/AgileCrete"],
+				["fab fa-twitter", "https://twitter.com/AgileCrete"],
 				["fa-link", "https://agilecrete.org"]
 			]
 
@@ -284,7 +285,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "Friends of Good Software"
 			position = "online from The Netherlands"
 			social = [
-				["fa-linkedin", "https://www.linkedin.com/company/frogsconf/"],
+				["fab fa-linkedin", "https://www.linkedin.com/company/frogsconf/"],
 				["fa-link", "https://frogsconf.nl/"]
 			]
 
@@ -452,7 +453,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes-FR Rennes"
 			position = "Rennes"
 			social = [
-				["fa-twitter", "https://twitter.com/socratesday_fr"],
+				["fab fa-twitter", "https://twitter.com/socratesday_fr"],
 				["fa-link", "https://socrates-rennes.github.io"]
 			]
 
@@ -461,7 +462,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "AlpesCraft | SoCraTes-FR Grenoble"
 			position = "Grenoble"
 			social = [
-				["fa-twitter", "https://twitter.com/AlpesCraft"],
+				["fab fa-mastodon", "https://mastodon.social/@AlpesCraft"],
 				["fa-link", "https://www.alpescraft.fr/"]
 			]
 
@@ -470,7 +471,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "Hello World Nantes"
 			position = "Nantes"
 			social = [
-				["fa-twitter", "https://twitter.com/helloworldconf"],
+				["fab fa-twitter", "https://twitter.com/helloworldconf"],
 				["fa-link", "https://www.hello-world.events/"]
 			]
 
@@ -489,5 +490,5 @@ googleAnalytics = "UA-60791139-1"
 		copyright = "Published under the Apache License 2.0."
 
 		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "https://twitter.com/SoCraTes_FR/"
+			icon = "fab fa-linkedin"
+			link = "http://linkedin.com/company/socratesfr"
