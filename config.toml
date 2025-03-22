@@ -185,6 +185,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes FR"
 			position = "France"
 			social = [
+				["fab fa-linkedin", "http://linkedin.com/company/socratesfr"],
 				["fa-link", "https://socrates-fr.github.io"]
 			]
 
@@ -193,7 +194,8 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
-				["fab fa-twitter", "https://twitter.com/SoCraTes_Conf"],
+				["fab fa-mastodon", "https://mastodon.social/@SoCraTes_Conf"],
+				["fab fa-linkedin", "https://www.linkedin.com/company/socrates-conference/"],
 				["fa-link", "https://www.socrates-conference.de"]
 			]
 
@@ -202,7 +204,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes UK"
 			position = "United Kingdom"
 			social = [
-				["fab fa-twitter", "https://twitter.com/SoCraTes_UK"],
+				["fab fa-mastodon", "https://discuss.systems/@SoCraTes_UK"],
 				["fa-link", "http://socratesuk.org"]
 			]
 
@@ -220,7 +222,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "SoCraTes Conf Switzerland"
 			position = "Switzerland"
 			social = [
-				["fab fa-twitter", "https://twitter.com/SoCraTes_CH"],
+				["fab fa-mastodon", "https://tooting.ch/@socrates_ch"],
 				["fa-link", "http://socrates-ch.org"]
 			]
 
@@ -256,7 +258,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "CodeFreeze"
 			position = "Finland"
 			social = [
-				["fab fa-twitter", "https://discuss.systems/@codefreeze"],
+				["fab fa-mastodon", "https://discuss.systems/@codefreeze"],
 				["fa-link", "http://www.codefreeze.fi"]
 			]
 
@@ -460,7 +462,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "AlpesCraft | SoCraTes-FR Grenoble"
 			position = "Grenoble"
 			social = [
-				["fab fa-twitter", "https://twitter.com/AlpesCraft"],
+				["fab fa-mastodon", "https://mastodon.social/@AlpesCraft"],
 				["fa-link", "https://www.alpescraft.fr/"]
 			]
 
@@ -488,5 +490,5 @@ googleAnalytics = "UA-60791139-1"
 		copyright = "Published under the Apache License 2.0."
 
 		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "https://twitter.com/SoCraTes_FR/"
+			icon = "fab fa-linkedin"
+			link = "http://linkedin.com/company/socratesfr"
