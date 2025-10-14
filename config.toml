@@ -66,7 +66,7 @@ googleAnalytics = "UA-60791139-1"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "8th Edition of the International Conference for Software Craft and Testing - France. March 20-23th, 2025."
+		title = "9th Edition of the International Conference for Software Craft and Testing - France. March 26-29th, 2026."
 		subtitle="SoCraTes France"
 		buttontext = "Tell me more"
 
@@ -123,9 +123,15 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.about.events]]
 		img = "3.jpg"
+		date = "March 26-29th, 2026"
+		title = "Ninth edition"
+		description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+
+		[[params.about.events]]
+		img = "3.jpg"
 		date = "March 20-23th, 2025"
 		title = "Eighth edition"
-		description = "It will take place at the beautiful castle 'Château de Massillan' - France (Drôme)"
+		description = "It occurred at the beautiful castle 'Château de Massillan' - France (Drôme)"
 
 		[[params.about.events]]
 			img = "3.jpg"
@@ -295,45 +301,45 @@ googleAnalytics = "UA-60791139-1"
 		title = "Our Sponsors"
 		subtitle = ""
 
-	[[params.sponsor]]
-		name = "CodeWorks"
-		logo = "codeworks-square.png"
-		link = "https://www.codeworks.fr/"
-
-	[[params.sponsor]]
-		name = "Saikoda"
-		logo = "saikoda-square.png"
-		link = "https://www.saikoda.fr/"
-
-	[[params.sponsor]]
-		name = "Malt"
-		logo = "malt-square.png"
-		link = "https://www.malt.com/"
-
-	[[params.sponsor]]
-		name = "Objectware"
-		logo = "objectware-square.png"
-		link = "https://www.objectware.fr/"
-
-	[[params.sponsor]]
-		name = "Kapsul"
-		logo = "kapsul-square.jpg"
-		link = "https://www.kapsul.io/"
-
-    [[params.sponsor]]
-	    name = "QuantumBlack, AI by McKinsey"
-	    logo = "quantumblack-square.svg"
-	    link = "https://www.mckinsey.com/"
-
-	[[params.sponsor]]
-	    name = "Harvest Group"
-	    logo = "harvest-square.png"
-	    link = "https://www.harvest.eu/group/"
-
-	[[params.sponsor]]
-		name = "Shodo"
-		logo = "shodo-square.jpg"
-		link = "https://shodo.io"
+#	[[params.sponsor]]
+#		name = "CodeWorks"
+#		logo = "codeworks-square.png"
+#		link = "https://www.codeworks.fr/"
+#
+#	[[params.sponsor]]
+#		name = "Saikoda"
+#		logo = "saikoda-square.png"
+#		link = "https://www.saikoda.fr/"
+#
+#	[[params.sponsor]]
+#		name = "Malt"
+#		logo = "malt-square.png"
+#		link = "https://www.malt.com/"
+#
+#	[[params.sponsor]]
+#		name = "Objectware"
+#		logo = "objectware-square.png"
+#		link = "https://www.objectware.fr/"
+#
+#	[[params.sponsor]]
+#		name = "Kapsul"
+#		logo = "kapsul-square.jpg"
+#		link = "https://www.kapsul.io/"
+#
+#    [[params.sponsor]]
+#	    name = "QuantumBlack, AI by McKinsey"
+#	    logo = "quantumblack-square.svg"
+#	    link = "https://www.mckinsey.com/"
+#
+#	[[params.sponsor]]
+#	    name = "Harvest Group"
+#	    logo = "harvest-square.png"
+#	    link = "https://www.harvest.eu/group/"
+#
+#	[[params.sponsor]]
+#		name = "Shodo"
+#		logo = "shodo-square.jpg"
+#		link = "https://shodo.io"
 
 #		[[params.sponsor]]
 #			name = "La Combe du Lion Vert"
@@ -449,10 +455,10 @@ googleAnalytics = "UA-60791139-1"
 
 		[[params.socratesday.members]]
 			img = "socratesrenne.png"
-			name = "SoCraTes-FR Rennes"
+			name = "SoCraTes Rennes"
 			position = "Rennes"
 			social = [
-				["fa-twitter", "https://twitter.com/socratesday_fr"],
+		#		["fa-twitter", "https://twitter.com/socratesday_fr"],
 				["fa-link", "https://socrates-rennes.github.io"]
 			]
 
@@ -461,7 +467,7 @@ googleAnalytics = "UA-60791139-1"
 			name = "AlpesCraft | SoCraTes-FR Grenoble"
 			position = "Grenoble"
 			social = [
-				["fa-twitter", "https://twitter.com/AlpesCraft"],
+		#		["fa-twitter", "https://twitter.com/AlpesCraft"],
 				["fa-link", "https://www.alpescraft.fr/"]
 			]
 
