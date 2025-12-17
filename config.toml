@@ -311,16 +311,15 @@ googleAnalytics = "UA-60791139-1"
 	    logo = "quantumblack-square.svg"
 	    link = "https://www.mckinsey.com/"
 
+	[[params.sponsor]]
+		name = "Malt"
+		logo = "malt-square.png"
+		link = "https://www.malt.com/"
+
 #	[[params.sponsor]]
 #		name = "CodeWorks"
 #		logo = "codeworks-square.png"
 #		link = "https://www.codeworks.fr/"
-#
-#
-#	[[params.sponsor]]
-#		name = "Malt"
-#		logo = "malt-square.png"
-#		link = "https://www.malt.com/"
 #
 #	[[params.sponsor]]
 #		name = "Objectware"
