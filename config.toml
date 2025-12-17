@@ -301,15 +301,16 @@ googleAnalytics = "UA-60791139-1"
 		title = "Our Sponsors"
 		subtitle = ""
 
+	[[params.sponsor]]
+		name = "Saikoda"
+		logo = "saikoda-square.png"
+		link = "https://www.saikoda.fr/"
+
 #	[[params.sponsor]]
 #		name = "CodeWorks"
 #		logo = "codeworks-square.png"
 #		link = "https://www.codeworks.fr/"
 #
-#	[[params.sponsor]]
-#		name = "Saikoda"
-#		logo = "saikoda-square.png"
-#		link = "https://www.saikoda.fr/"
 #
 #	[[params.sponsor]]
 #		name = "Malt"
