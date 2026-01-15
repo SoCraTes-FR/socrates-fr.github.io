@@ -488,7 +488,7 @@ googleAnalytics = "UA-60791139-1"
 		subtitle  = ""
 		buttontext = ""
 		#explains = "Registration is now open."
-		explains = "Pre-registration is now open. If we receive more than 60 entries, a random lottery will be held by 28 November 2025."
+		explains = "Registration is currently full. You can join the waiting list, and we will notify you if a spot becomes available."
 
 	# Footer section
 	[params.footer]
