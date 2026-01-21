@@ -277,12 +277,12 @@ googleAnalytics = "UA-60791139-1"
 			]
 
 		[[params.team.members]]
-			img = "agileCrete.png"
-			name = "AgileCrete Unconference"
+			img = "SoCraTesCrete.svg"
+			name = "SoCraTes Crete"
 			position = "Crete, Greece"
 			social = [
-				["fa-twitter", "https://twitter.com/AgileCrete"],
-				["fa-link", "https://agilecrete.org"]
+				["fa-linkedin", "https://www.linkedin.com/company/socrates-crete/"],
+				["fa-link", "https://socrates-crete.org/"]
 			]
 
 		[[params.team.members]]
