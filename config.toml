@@ -301,20 +301,30 @@ googleAnalytics = "UA-60791139-1"
 		title = "Our Sponsors"
 		subtitle = ""
 
+	[[params.sponsor]]
+		name = "Saikoda"
+	logo = "saikoda-square.png"
+	link = "https://www.saikoda.fr/"
+
+    [[params.sponsor]]
+	    name = "QuantumBlack, AI by McKinsey"
+	    logo = "quantumblack-square.svg"
+	    link = "https://www.mckinsey.com/"
+
+	[[params.sponsor]]
+		name = "Malt"
+		logo = "malt-square.png"
+		link = "https://www.malt.com/"
+
+	[[params.sponsor]]
+		name = "Bachrc"
+		logo = "bachrc-square.png"
+		link = "https://socrates-fr.github.io/"
+
 #	[[params.sponsor]]
 #		name = "CodeWorks"
 #		logo = "codeworks-square.png"
 #		link = "https://www.codeworks.fr/"
-#
-#	[[params.sponsor]]
-#		name = "Saikoda"
-#		logo = "saikoda-square.png"
-#		link = "https://www.saikoda.fr/"
-#
-#	[[params.sponsor]]
-#		name = "Malt"
-#		logo = "malt-square.png"
-#		link = "https://www.malt.com/"
 #
 #	[[params.sponsor]]
 #		name = "Objectware"
@@ -326,10 +336,6 @@ googleAnalytics = "UA-60791139-1"
 #		logo = "kapsul-square.jpg"
 #		link = "https://www.kapsul.io/"
 #
-#    [[params.sponsor]]
-#	    name = "QuantumBlack, AI by McKinsey"
-#	    logo = "quantumblack-square.svg"
-#	    link = "https://www.mckinsey.com/"
 #
 #	[[params.sponsor]]
 #	    name = "Harvest Group"
@@ -487,7 +493,7 @@ googleAnalytics = "UA-60791139-1"
 		subtitle  = ""
 		buttontext = ""
 		#explains = "Registration is now open."
-		explains = "Pre-registration is now open. If we receive more than 60 entries, a random lottery will be held by 28 November 2025."
+		explains = "Registration is currently full. You can join the waiting list, and we will notify you if a spot becomes available."
 
 	# Footer section
 	[params.footer]
