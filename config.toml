@@ -316,6 +316,11 @@ googleAnalytics = "UA-60791139-1"
 		logo = "malt-square.png"
 		link = "https://www.malt.com/"
 
+	[[params.sponsor]]
+		name = "Bachrc"
+		logo = "bachrc-square.png"
+		link = "https://socrates-fr.github.io/"
+
 #	[[params.sponsor]]
 #		name = "CodeWorks"
 #		logo = "codeworks-square.png"
